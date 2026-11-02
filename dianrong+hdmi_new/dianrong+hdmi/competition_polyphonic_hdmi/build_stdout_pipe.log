@@ -1,0 +1,138 @@
+*** GOWIN Tcl Command Line Console  *** 
+Open project E:/FPGA/work/competition_polyphonic_hdmi/competition_polyphonic_hdmi.gprj finished
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'E:\FPGA\work\competition_polyphonic_hdmi\src\key_filter_8.v'
+Analyzing Verilog file 'E:\FPGA\work\competition_polyphonic_hdmi\src\polyphonic_dds.v'
+Analyzing Verilog file 'E:\FPGA\work\competition_polyphonic_hdmi\src\i2s_tx.v'
+Analyzing Verilog file 'E:\FPGA\work\competition_polyphonic_hdmi\src\uart_tx.v'
+Analyzing Verilog file 'E:\FPGA\work\competition_polyphonic_hdmi\src\uart_telemetry.v'
+Analyzing Verilog file 'E:\FPGA\work\competition_polyphonic_hdmi\src\spectrum_detector.v'
+Analyzing Verilog file 'E:\FPGA\work\competition_polyphonic_hdmi\src\spectrum_dft.v'
+Analyzing Verilog file 'E:\FPGA\work\competition_polyphonic_hdmi\src\ui_data.v'
+Analyzing Verilog file 'E:\FPGA\work\competition_polyphonic_hdmi\src\waveform_history.v'
+Analyzing Verilog file 'E:\FPGA\work\competition_polyphonic_hdmi\src\video_timing_720p.v'
+Analyzing Verilog file 'E:\FPGA\work\competition_polyphonic_hdmi\src\font_rom.v'
+Analyzing Verilog file 'E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v'
+Analyzing Verilog file 'E:\FPGA\work\competition_polyphonic_hdmi\src\dvi_tx\DVI_TX_Top.v'
+Analyzing Verilog file 'E:\FPGA\work\competition_polyphonic_hdmi\src\pll\TMDS_PLL_60HZ.v'
+Analyzing Verilog file 'E:\FPGA\work\competition_polyphonic_hdmi\src\top_hdmi.v'
+Compiling module 'top_hdmi'("E:\FPGA\work\competition_polyphonic_hdmi\src\top_hdmi.v":4)
+Compiling module 'key_filter_8'("E:\FPGA\work\competition_polyphonic_hdmi\src\key_filter_8.v":5)
+Compiling module 'polyphonic_dds'("E:\FPGA\work\competition_polyphonic_hdmi\src\polyphonic_dds.v":6)
+Compiling module 'spectrum_detector'("E:\FPGA\work\competition_polyphonic_hdmi\src\spectrum_detector.v":6)
+Compiling module 'spectrum_dft'("E:\FPGA\work\competition_polyphonic_hdmi\src\spectrum_dft.v":15)
+Extracting RAM for identifier 'sample_bank0'("E:\FPGA\work\competition_polyphonic_hdmi\src\spectrum_dft.v":34)
+Extracting RAM for identifier 'sample_bank1'("E:\FPGA\work\competition_polyphonic_hdmi\src\spectrum_dft.v":35)
+Compiling module 'uart_telemetry'("E:\FPGA\work\competition_polyphonic_hdmi\src\uart_telemetry.v":8)
+Compiling module 'uart_tx'("E:\FPGA\work\competition_polyphonic_hdmi\src\uart_tx.v":5)
+Compiling module 'i2s_tx'("E:\FPGA\work\competition_polyphonic_hdmi\src\i2s_tx.v":8)
+Compiling module 'TMDS_PLL'("E:\FPGA\work\competition_polyphonic_hdmi\src\pll\TMDS_PLL_60HZ.v":10)
+Compiling module 'video_timing_720p'("E:\FPGA\work\competition_polyphonic_hdmi\src\video_timing_720p.v":4)
+Compiling module 'ui_data'("E:\FPGA\work\competition_polyphonic_hdmi\src\ui_data.v":6)
+Compiling module 'waveform_history'("E:\FPGA\work\competition_polyphonic_hdmi\src\waveform_history.v":5)
+Compiling module 'hdmi_ui'("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":5)
+Compiling module 'font_rom'("E:\FPGA\work\competition_polyphonic_hdmi\src\font_rom.v":4)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":235)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 4("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":236)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":239)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":240)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 4("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":241)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":244)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":245)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 4("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":246)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":249)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":250)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 4("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":251)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":254)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":255)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 4("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":256)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":259)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":260)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 4("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":261)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":264)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":265)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 4("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":266)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":269)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":270)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 4("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":271)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":274)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":275)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 4("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":276)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":279)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":280)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 4("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":281)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":284)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":285)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 4("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":286)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":289)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":290)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 4("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":291)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":294)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":295)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 4("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":296)
+WARN  (EX3791) : Expression size 9 truncated to fit in target size 8("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":299)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":300)
+WARN  (EX3791) : Expression size 11 truncated to fit in target size 4("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":301)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":305)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 4("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":306)
+WARN  (EX3791) : Expression size 9 truncated to fit in target size 8("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":309)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":310)
+WARN  (EX3791) : Expression size 11 truncated to fit in target size 4("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":311)
+WARN  (EX3791) : Expression size 30 truncated to fit in target size 8("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":355)
+WARN  (EX3791) : Expression size 24 truncated to fit in target size 8("E:\FPGA\work\competition_polyphonic_hdmi\src\hdmi_ui.v":357)
+Compiling module 'DVI_TX_Top'("E:\FPGA\work\competition_polyphonic_hdmi\src\dvi_tx\DVI_TX_Top.v":1089)
+Compiling module '**'("E:\FPGA\work\competition_polyphonic_hdmi\src\dvi_tx\DVI_TX_Top.v":1088)
+WARN  (EX1998) : Net 'spectrum_dft_addr[7]' does not have a driver("E:\FPGA\work\competition_polyphonic_hdmi\src\top_hdmi.v":33)
+NOTE  (EX0101) : Current top module is "top_hdmi"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "ui_data" instantiated to "ui_data_inst" is swept in optimizing("E:\FPGA\work\competition_polyphonic_hdmi\src\top_hdmi.v":225)
+[95%] Generate netlist file "E:\FPGA\work\competition_polyphonic_hdmi\impl\gwsynthesis\competition_polyphonic_hdmi.vg" completed
+[100%] Generate report file "E:\FPGA\work\competition_polyphonic_hdmi\impl\gwsynthesis\competition_polyphonic_hdmi_syn.rpt.html" completed
+GowinSynthesis finish
+Reading netlist file: "E:\FPGA\work\competition_polyphonic_hdmi\impl\gwsynthesis\competition_polyphonic_hdmi.vg"
+Parsing netlist file "E:\FPGA\work\competition_polyphonic_hdmi\impl\gwsynthesis\competition_polyphonic_hdmi.vg" completed
+Processing netlist completed
+Reading constraint file: "E:\FPGA\work\competition_polyphonic_hdmi\src\competition_polyphonic_hdmi.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+WARN  (TA1123) : the clock "clk_74_25"'s frequency does not match u_tmds_pll/PLLA_inst/CLKOUT1's 
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+WARN  (PR1014) : Generic routing resource will be used to clock signal 'sys_clk_d' by the specified constraint. And then it may lead to the excessive delay or skew
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "E:\FPGA\work\competition_polyphonic_hdmi\impl\pnr\competition_polyphonic_hdmi.power.html" completed
+Generate file "E:\FPGA\work\competition_polyphonic_hdmi\impl\pnr\competition_polyphonic_hdmi.pin.html" completed
+Generate file "E:\FPGA\work\competition_polyphonic_hdmi\impl\pnr\competition_polyphonic_hdmi.rpt.html" completed
+Generate file "E:\FPGA\work\competition_polyphonic_hdmi\impl\pnr\competition_polyphonic_hdmi.rpt.txt" completed
+Generate file "E:\FPGA\work\competition_polyphonic_hdmi\impl\pnr\competition_polyphonic_hdmi.tr.html" completed
+Sun Oct 11 22:12:02 2026
+

@@ -1,0 +1,367 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/FPGA/work/competition_polyphonic_hdmi
+vfont_rom
+Z1 !s110 1791718062
+!i10b 1
+!s100 MXLzUQl9I_a_z6=OjN7hi3
+IPIDkdUMl:UP;Maf3Slm820
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1791711301
+8src\font_rom.v
+Fsrc\font_rom.v
+L0 4
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1791718062.000000
+Z5 !s107 src\top_hdmi.v|src\hdmi_ui.v|src\font_rom.v|src\video_timing_720p.v|src\waveform_history.v|src\ui_data.v|src\spectrum_detector.v|src\uart_telemetry.v|src\uart_tx.v|src\i2s_tx.v|src\polyphonic_dds.v|src\key_filter_8.v|sim\tb_video_ui.v|sim\tb_video_timing.v|sim\tb_ui_data.v|sim\tb_waveform_history.v|sim\tb_spectrum_detector.v|
+Z6 !s90 -work|simlib_integration2|sim\tb_spectrum_detector.v|sim\tb_waveform_history.v|sim\tb_ui_data.v|sim\tb_video_timing.v|sim\tb_video_ui.v|src\key_filter_8.v|src\polyphonic_dds.v|src\i2s_tx.v|src\uart_tx.v|src\uart_telemetry.v|src\spectrum_detector.v|src\ui_data.v|src\waveform_history.v|src\video_timing_720p.v|src\font_rom.v|src\hdmi_ui.v|src\top_hdmi.v|
+!i113 1
+Z7 o-work simlib_integration2
+Z8 tCvgOpt 0
+vhdmi_ui
+R1
+!i10b 1
+!s100 1Le;8om`]97PRY3Y>C`GE1
+IRnYH8CjU12[3eXoSAbK?C1
+R2
+R0
+w1791717916
+8src\hdmi_ui.v
+Fsrc\hdmi_ui.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vi2s_tx
+R1
+!i10b 1
+!s100 ch=Y8<1K_RG0lPPaCT;FG2
+I;R7iSMJ1AV9Q?K8Y=U_WH0
+R2
+R0
+Z9 w1790839209
+8src\i2s_tx.v
+Fsrc\i2s_tx.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vkey_filter_8
+R1
+!i10b 1
+!s100 njW^[mQMjC59Ai5n0HJh23
+IDQI_BnkhYE?Nj4ICjM_fl2
+R2
+R0
+R9
+8src\key_filter_8.v
+Fsrc\key_filter_8.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vpolyphonic_dds
+R1
+!i10b 1
+!s100 FNa82J^6>6_c@zaI03ON42
+IPF??Kkk_74XK`nD0LG`?@3
+R2
+R0
+R9
+8src\polyphonic_dds.v
+Fsrc\polyphonic_dds.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vspectrum_detector
+R1
+!i10b 1
+!s100 9TQnZE2OL>2kcVZ=OVfX71
+IVO5hnVTg@8n:NZNZgVPoE1
+R2
+R0
+w1791717523
+8src\spectrum_detector.v
+Fsrc\spectrum_detector.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_spectrum_detector
+R1
+!i10b 1
+!s100 iM3Lf_VQ?H9?H?bgkY1100
+ImE9Rh@?L6PL6jahfzAH[60
+R2
+R0
+w1791717498
+8sim\tb_spectrum_detector.v
+Fsim\tb_spectrum_detector.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_ui_data
+R1
+!i10b 1
+!s100 SYS<^JbBY;7ELGa1WKkPF0
+I7I5be52FS[`W6B2o9mdiU3
+R2
+R0
+w1791711091
+8sim\tb_ui_data.v
+Fsim\tb_ui_data.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_video_timing
+R1
+!i10b 1
+!s100 3E8mi;]deaGQS2Wg<G_DB1
+IDjLbR?m=5FnjVbdNF_7>l1
+R2
+R0
+w1791711168
+8sim\tb_video_timing.v
+Fsim\tb_video_timing.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_video_ui
+R1
+!i10b 1
+!s100 h9ac`:z>ZWoJ18`JQBz]E2
+IOa7hi;nbLkg=em58EHO;K2
+R2
+R0
+w1791717993
+8sim\tb_video_ui.v
+Fsim\tb_video_ui.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_waveform_history
+R1
+!i10b 1
+!s100 V?:oG=zaPjd?jTKiJ4a4=1
+IXRbj1RhTL_1=WFWQ]@2>62
+R2
+R0
+w1791717558
+8sim\tb_waveform_history.v
+Fsim\tb_waveform_history.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtop_hdmi
+R1
+!i10b 1
+!s100 _Xcm`o0HL6Wzj23gc367<1
+IfYk>e?o<MgcYHbYG:2TgW0
+R2
+R0
+w1791718049
+8src\top_hdmi.v
+Fsrc\top_hdmi.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vuart_telemetry
+R1
+!i10b 1
+!s100 Vbj6:K=QI]<J^R<iX]Ilf1
+IQPU5ohB]9XGKHf<W;YmT?3
+R2
+R0
+w1790843252
+8src\uart_telemetry.v
+Fsrc\uart_telemetry.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vuart_tx
+R1
+!i10b 1
+!s100 H_aTEKH8TDzZQYMB@7[3g0
+In6XXJCfdHDe3gleDkNkA83
+R2
+R0
+w1790840479
+8src\uart_tx.v
+Fsrc\uart_tx.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vui_data
+R1
+!i10b 1
+!s100 M4jf3DNc?0TED@]i42?<P0
+Id2Yk^HRI?HaXzSeRY2KHT1
+R2
+R0
+w1791711144
+8src\ui_data.v
+Fsrc\ui_data.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vvideo_timing_720p
+R1
+!i10b 1
+!s100 BU8:?e6b]KnL29MW;@[[B3
+IW=MncJ<<Zc82TPWkX6]<00
+R2
+R0
+w1791711226
+8src\video_timing_720p.v
+Fsrc\video_timing_720p.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vwaveform_history
+R1
+!i10b 1
+!s100 1@lYL=dS^IdaVKVN5PK_T0
+IYJ:D@K[TgAJL]Bg@AN7Hz2
+R2
+R0
+w1791717582
+8src\waveform_history.v
+Fsrc\waveform_history.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8

@@ -1,0 +1,14 @@
+# vsim -c -lib simlib tb_legato_top -do "run -all; quit -f" 
+# Start time: 23:23:46 on Oct 21,2026
+# Loading simlib.tb_legato_top
+# Loading simlib.legato_top
+# Loading simlib.key_filter_8
+# Loading simlib.legato_pitch
+# Loading simlib.legato_dds
+# Loading simlib.i2s_tx
+# run -all
+# TB_LEGATO_TOP_PASS
+# ** Note: $finish    : E:/FPGA/work/legato_glide_standalone/sim/tb_legato_top.v(79)
+#    Time: 225626 ns  Iteration: 0  Instance: /tb_legato_top
+# End time: 23:23:47 on Oct 21,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0

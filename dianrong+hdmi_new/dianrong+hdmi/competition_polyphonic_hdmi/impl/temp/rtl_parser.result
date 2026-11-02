@@ -1,0 +1,146 @@
+[
+    {
+        "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/top_hdmi.v",
+        "InstLine": 4,
+        "InstName": "top_hdmi",
+        "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/top_hdmi.v",
+        "ModuleLine": 4,
+        "ModuleName": "top_hdmi",
+        "SubInsts": [
+            {
+                "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/top_hdmi.v",
+                "InstLine": 44,
+                "InstName": "key_filter_inst",
+                "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/key_filter_8.v",
+                "ModuleLine": 5,
+                "ModuleName": "key_filter_8"
+            },
+            {
+                "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/top_hdmi.v",
+                "InstLine": 52,
+                "InstName": "polyphonic_dds_inst",
+                "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/polyphonic_dds.v",
+                "ModuleLine": 6,
+                "ModuleName": "polyphonic_dds"
+            },
+            {
+                "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/top_hdmi.v",
+                "InstLine": 60,
+                "InstName": "spectrum_detector_inst",
+                "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/spectrum_detector.v",
+                "ModuleLine": 6,
+                "ModuleName": "spectrum_detector"
+            },
+            {
+                "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/top_hdmi.v",
+                "InstLine": 73,
+                "InstName": "spectrum_dft_inst",
+                "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/spectrum_dft.v",
+                "ModuleLine": 15,
+                "ModuleName": "spectrum_dft"
+            },
+            {
+                "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/top_hdmi.v",
+                "InstLine": 87,
+                "InstName": "spectrum_peak_metric_inst",
+                "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/spectrum_peak_metric.v",
+                "ModuleLine": 6,
+                "ModuleName": "spectrum_peak_metric"
+            },
+            {
+                "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/top_hdmi.v",
+                "InstLine": 102,
+                "InstName": "uart_telemetry_inst",
+                "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/uart_telemetry.v",
+                "ModuleLine": 8,
+                "ModuleName": "uart_telemetry",
+                "SubInsts": [
+                    {
+                        "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/uart_telemetry.v",
+                        "InstLine": 61,
+                        "InstName": "uart_tx_inst",
+                        "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/uart_tx.v",
+                        "ModuleLine": 5,
+                        "ModuleName": "uart_tx"
+                    }
+                ]
+            },
+            {
+                "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/top_hdmi.v",
+                "InstLine": 112,
+                "InstName": "i2s_tx_inst",
+                "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/i2s_tx.v",
+                "ModuleLine": 8,
+                "ModuleName": "i2s_tx"
+            },
+            {
+                "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/top_hdmi.v",
+                "InstLine": 127,
+                "InstName": "u_tmds_pll",
+                "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/pll/TMDS_PLL_60HZ.v",
+                "ModuleLine": 10,
+                "ModuleName": "TMDS_PLL"
+            },
+            {
+                "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/top_hdmi.v",
+                "InstLine": 151,
+                "InstName": "video_timing_inst",
+                "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/video_timing_720p.v",
+                "ModuleLine": 4,
+                "ModuleName": "video_timing_720p"
+            },
+            {
+                "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/top_hdmi.v",
+                "InstLine": 247,
+                "InstName": "ui_data_inst",
+                "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/ui_data.v",
+                "ModuleLine": 6,
+                "ModuleName": "ui_data"
+            },
+            {
+                "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/top_hdmi.v",
+                "InstLine": 266,
+                "InstName": "waveform_history_inst",
+                "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/waveform_history.v",
+                "ModuleLine": 5,
+                "ModuleName": "waveform_history"
+            },
+            {
+                "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/top_hdmi.v",
+                "InstLine": 331,
+                "InstName": "hdmi_ui_inst",
+                "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/hdmi_ui.v",
+                "ModuleLine": 5,
+                "ModuleName": "hdmi_ui",
+                "SubInsts": [
+                    {
+                        "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/hdmi_ui.v",
+                        "InstLine": 120,
+                        "InstName": "font_rom_inst",
+                        "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/font_rom.v",
+                        "ModuleLine": 4,
+                        "ModuleName": "font_rom"
+                    }
+                ]
+            },
+            {
+                "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/top_hdmi.v",
+                "InstLine": 351,
+                "InstName": "DVI_TX_Top_inst0",
+                "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/dvi_tx/DVI_TX_Top.v",
+                "ModuleLine": 1089,
+                "ModuleName": "DVI_TX_Top",
+                "SubInsts": [
+                    {
+                        "InstFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/dvi_tx/DVI_TX_Top.v",
+                        "InstLine": 1120,
+                        "InstName": "rgb2dvi_inst",
+                        "ModuleFile": "D:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi/src/dvi_tx/DVI_TX_Top.v",
+                        "ModuleLine": 10,
+                        "ModuleName": "~rgb2dvi.DVI_TX_Top"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "InstFile": "E:/FPGA/work/glide_standalone/src/glide_top.v",
+        "InstLine": 4,
+        "InstName": "glide_top",
+        "ModuleFile": "E:/FPGA/work/glide_standalone/src/glide_top.v",
+        "ModuleLine": 4,
+        "ModuleName": "glide_top",
+        "SubInsts": [
+            {
+                "InstFile": "E:/FPGA/work/glide_standalone/src/glide_top.v",
+                "InstLine": 21,
+                "InstName": "keys",
+                "ModuleFile": "E:/FPGA/work/glide_standalone/src/key_filter_8.v",
+                "ModuleLine": 5,
+                "ModuleName": "key_filter_8"
+            },
+            {
+                "InstFile": "E:/FPGA/work/glide_standalone/src/glide_top.v",
+                "InstLine": 29,
+                "InstName": "synth",
+                "ModuleFile": "E:/FPGA/work/glide_standalone/src/glide_dds.v",
+                "ModuleLine": 4,
+                "ModuleName": "glide_dds",
+                "SubInsts": [
+                    {
+                        "InstFile": "E:/FPGA/work/glide_standalone/src/glide_dds.v",
+                        "InstLine": 87,
+                        "InstName": "pitch[0].voice_pitch",
+                        "ModuleFile": "E:/FPGA/work/glide_standalone/src/glide_voice_pitch.v",
+                        "ModuleLine": 5,
+                        "ModuleName": "glide_voice_pitch"
+                    },
+                    {
+                        "InstFile": "E:/FPGA/work/glide_standalone/src/glide_dds.v",
+                        "InstLine": 87,
+                        "InstName": "pitch[1].voice_pitch",
+                        "ModuleFile": "E:/FPGA/work/glide_standalone/src/glide_voice_pitch.v",
+                        "ModuleLine": 5,
+                        "ModuleName": "glide_voice_pitch"
+                    },
+                    {
+                        "InstFile": "E:/FPGA/work/glide_standalone/src/glide_dds.v",
+                        "InstLine": 87,
+                        "InstName": "pitch[2].voice_pitch",
+                        "ModuleFile": "E:/FPGA/work/glide_standalone/src/glide_voice_pitch.v",
+                        "ModuleLine": 5,
+                        "ModuleName": "glide_voice_pitch"
+                    },
+                    {
+                        "InstFile": "E:/FPGA/work/glide_standalone/src/glide_dds.v",
+                        "InstLine": 87,
+                        "InstName": "pitch[3].voice_pitch",
+                        "ModuleFile": "E:/FPGA/work/glide_standalone/src/glide_voice_pitch.v",
+                        "ModuleLine": 5,
+                        "ModuleName": "glide_voice_pitch"
+                    },
+                    {
+                        "InstFile": "E:/FPGA/work/glide_standalone/src/glide_dds.v",
+                        "InstLine": 87,
+                        "InstName": "pitch[4].voice_pitch",
+                        "ModuleFile": "E:/FPGA/work/glide_standalone/src/glide_voice_pitch.v",
+                        "ModuleLine": 5,
+                        "ModuleName": "glide_voice_pitch"
+                    },
+                    {
+                        "InstFile": "E:/FPGA/work/glide_standalone/src/glide_dds.v",
+                        "InstLine": 87,
+                        "InstName": "pitch[5].voice_pitch",
+                        "ModuleFile": "E:/FPGA/work/glide_standalone/src/glide_voice_pitch.v",
+                        "ModuleLine": 5,
+                        "ModuleName": "glide_voice_pitch"
+                    },
+                    {
+                        "InstFile": "E:/FPGA/work/glide_standalone/src/glide_dds.v",
+                        "InstLine": 87,
+                        "InstName": "pitch[6].voice_pitch",
+                        "ModuleFile": "E:/FPGA/work/glide_standalone/src/glide_voice_pitch.v",
+                        "ModuleLine": 5,
+                        "ModuleName": "glide_voice_pitch"
+                    },
+                    {
+                        "InstFile": "E:/FPGA/work/glide_standalone/src/glide_dds.v",
+                        "InstLine": 87,
+                        "InstName": "pitch[7].voice_pitch",
+                        "ModuleFile": "E:/FPGA/work/glide_standalone/src/glide_voice_pitch.v",
+                        "ModuleLine": 5,
+                        "ModuleName": "glide_voice_pitch"
+                    }
+                ]
+            },
+            {
+                "InstFile": "E:/FPGA/work/glide_standalone/src/glide_top.v",
+                "InstLine": 34,
+                "InstName": "tx",
+                "ModuleFile": "E:/FPGA/work/glide_standalone/src/i2s_tx.v",
+                "ModuleLine": 8,
+                "ModuleName": "i2s_tx"
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+# vsim -c -lib simlib tb_i2s_framing -do "run -all; quit -f" 
+# Start time: 21:17:38 on Oct 21,2026
+# Loading simlib.tb_i2s_framing
+# Loading simlib.i2s_tx
+# run -all
+# TB_I2S_FRAMING_PASS
+# ** Note: $finish    : E:/FPGA/work/vibrato_standalone/sim/tb_i2s_framing.v(43)
+#    Time: 20976 ns  Iteration: 0  Instance: /tb_i2s_framing
+# End time: 21:17:39 on Oct 21,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0

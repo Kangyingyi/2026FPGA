@@ -1,0 +1,220 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/FPGA/work/legato_glide_standalone
+vi2s_tx
+Z1 !s110 1792596222
+!i10b 1
+!s100 Hzm:MWdfmJCGg12>De5nk3
+I0RKJYnHi_6fom=:T7IS7K1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1792594089
+8E:\FPGA\work\legato_glide_standalone\src\i2s_tx.v
+FE:\FPGA\work\legato_glide_standalone\src\i2s_tx.v
+L0 4
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1792596222.000000
+Z6 !s107 E:\FPGA\work\legato_glide_standalone\sim\tb_legato_top.v|E:\FPGA\work\legato_glide_standalone\sim\tb_legato_pitch.v|E:\FPGA\work\legato_glide_standalone\sim\tb_legato_dds.v|E:\FPGA\work\legato_glide_standalone\sim\tb_key_filter_8.v|E:\FPGA\work\legato_glide_standalone\sim\tb_i2s_framing.v|E:\FPGA\work\legato_glide_standalone\src\legato_top.v|E:\FPGA\work\legato_glide_standalone\src\legato_pitch.v|E:\FPGA\work\legato_glide_standalone\src\legato_dds.v|E:\FPGA\work\legato_glide_standalone\src\key_filter_8.v|E:\FPGA\work\legato_glide_standalone\src\i2s_tx.v|
+Z7 !s90 -vlog01compat|-work|simlib|E:\FPGA\work\legato_glide_standalone\src\i2s_tx.v|E:\FPGA\work\legato_glide_standalone\src\key_filter_8.v|E:\FPGA\work\legato_glide_standalone\src\legato_dds.v|E:\FPGA\work\legato_glide_standalone\src\legato_pitch.v|E:\FPGA\work\legato_glide_standalone\src\legato_top.v|E:\FPGA\work\legato_glide_standalone\sim\tb_i2s_framing.v|E:\FPGA\work\legato_glide_standalone\sim\tb_key_filter_8.v|E:\FPGA\work\legato_glide_standalone\sim\tb_legato_dds.v|E:\FPGA\work\legato_glide_standalone\sim\tb_legato_pitch.v|E:\FPGA\work\legato_glide_standalone\sim\tb_legato_top.v|
+!i113 1
+Z8 o-vlog01compat -work simlib
+Z9 tCvgOpt 0
+vkey_filter_8
+R1
+!i10b 1
+!s100 CdPQGjD6SW2gMCWl1R6EE0
+IQUjbf_^gInOT=h>51JfAR3
+R2
+R0
+w1792593404
+8E:\FPGA\work\legato_glide_standalone\src\key_filter_8.v
+FE:\FPGA\work\legato_glide_standalone\src\key_filter_8.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vlegato_dds
+R1
+!i10b 1
+!s100 ;K?WFB94n]P310;4n^Nk_0
+IX9V695_ToGhN8GjO>A`:J1
+R2
+R0
+R3
+8E:\FPGA\work\legato_glide_standalone\src\legato_dds.v
+FE:\FPGA\work\legato_glide_standalone\src\legato_dds.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vlegato_pitch
+R1
+!i10b 1
+!s100 EdzZJ>1DF<W[80kQ1;zXj3
+IHBL^kL79mE8NbDba@Ijc:3
+R2
+R0
+w1792595097
+8E:\FPGA\work\legato_glide_standalone\src\legato_pitch.v
+FE:\FPGA\work\legato_glide_standalone\src\legato_pitch.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vlegato_top
+R1
+!i10b 1
+!s100 EI?o7U1T;NofIgZbh:UZY3
+I:d;VFh@QM@RKH:3R?1?5_0
+R2
+R0
+R3
+8E:\FPGA\work\legato_glide_standalone\src\legato_top.v
+FE:\FPGA\work\legato_glide_standalone\src\legato_top.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vtb_i2s_framing
+R1
+!i10b 1
+!s100 dJz]WMU?dkEQ47gVIHBn]0
+I_P4S`Ke@6[n5ZeE1e_DB[3
+R2
+R0
+Z10 w1792594038
+8E:\FPGA\work\legato_glide_standalone\sim\tb_i2s_framing.v
+FE:\FPGA\work\legato_glide_standalone\sim\tb_i2s_framing.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vtb_key_filter_8
+R1
+!i10b 1
+!s100 2h5<iznkTkOiA0c0M<J?61
+IG]>1;z=;7=1nCfCP>9^Dl0
+R2
+R0
+w1792593372
+8E:\FPGA\work\legato_glide_standalone\sim\tb_key_filter_8.v
+FE:\FPGA\work\legato_glide_standalone\sim\tb_key_filter_8.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vtb_legato_dds
+R1
+!i10b 1
+!s100 4RKczblRfCT2iF;zizYO[0
+IDoELS=J0a@31^:]Ym9GE90
+R2
+R0
+R10
+8E:\FPGA\work\legato_glide_standalone\sim\tb_legato_dds.v
+FE:\FPGA\work\legato_glide_standalone\sim\tb_legato_dds.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vtb_legato_pitch
+R1
+!i10b 1
+!s100 Agi@Ki^>Im2nb]C9YO6012
+IKWleDhWfM6;@Wal>=cTB40
+R2
+R0
+w1792594716
+8E:\FPGA\work\legato_glide_standalone\sim\tb_legato_pitch.v
+FE:\FPGA\work\legato_glide_standalone\sim\tb_legato_pitch.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vtb_legato_top
+R1
+!i10b 1
+!s100 ?e[l;2Zk3Bj<hmP4f?E8b0
+I80YG>1Zoddj0S3`lzLC1@3
+R2
+R0
+R10
+8E:\FPGA\work\legato_glide_standalone\sim\tb_legato_top.v
+FE:\FPGA\work\legato_glide_standalone\sim\tb_legato_top.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9

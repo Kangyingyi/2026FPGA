@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/FPGA/work/competition_polyphonic_hdmi
+vtb_spectrum_detector
+!s110 1791717291
+!i10b 1
+!s100 bGNB<DmQA58Vc^iKJgm832
+I29dG[CDCjgTJ1025BVIXX2
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1791717279
+8sim\tb_spectrum_detector.v
+Fsim\tb_spectrum_detector.v
+L0 3
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1791717291.000000
+!s107 sim\tb_spectrum_detector.v|
+!s90 -work|simlib_red_spectrum|sim\tb_spectrum_detector.v|
+!i113 1
+o-work simlib_red_spectrum
+tCvgOpt 0

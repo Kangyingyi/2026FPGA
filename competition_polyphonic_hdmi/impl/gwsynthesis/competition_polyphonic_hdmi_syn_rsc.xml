@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top_hdmi" Register="176" Lut="68" T_Register="3504(176)" T_Alu="1211(0)" T_Lut="6085(68)" T_MULTALU27X18="27(0)" T_Bsram="3(0)">
+ <SubModule name="key_filter_inst" Register="50" Alu="16" Lut="35" T_Register="50(50)" T_Alu="16(16)" T_Lut="35(35)"/>
+ <SubModule name="polyphonic_dds_inst" Register="256" Alu="381" Lut="550" MULTALU27X18="8" T_Register="256(256)" T_Alu="381(381)" T_Lut="550(550)" T_MULTALU27X18="8(8)"/>
+ <SubModule name="spectrum_detector_inst" Register="950" Alu="576" Lut="2272" MULTALU27X18="16" T_Register="950(950)" T_Alu="576(576)" T_Lut="2272(2272)" T_MULTALU27X18="16(16)"/>
+ <SubModule name="spectrum_dft_inst" Register="1054" Alu="40" Lut="999" MULTALU27X18="2" Bsram="2" T_Register="1054(1054)" T_Alu="40(40)" T_Lut="999(999)" T_MULTALU27X18="2(2)" T_Bsram="2(2)"/>
+ <SubModule name="spectrum_peak_metric_inst" Register="77" Alu="49" Lut="100" T_Register="77(77)" T_Alu="49(49)" T_Lut="100(100)"/>
+ <SubModule name="uart_telemetry_inst" Register="372" Alu="7" Lut="339" T_Register="395(372)" T_Alu="7(7)" T_Lut="372(339)">
+  <SubModule name="uart_tx_inst" Register="23" Lut="33" T_Register="23(23)" T_Lut="33(33)"/>
+ </SubModule>
+ <SubModule name="i2s_tx_inst" Register="27" Lut="35" T_Register="27(27)" T_Lut="35(35)"/>
+ <SubModule name="u_tmds_pll"/>
+ <SubModule name="video_timing_inst" Register="23" Lut="51" T_Register="23(23)" T_Lut="51(51)"/>
+ <SubModule name="ui_data_inst" Lut="12" T_Lut="12(12)"/>
+ <SubModule name="waveform_history_inst" Register="266" Alu="15" Lut="444" T_Register="266(266)" T_Alu="15(15)" T_Lut="444(444)"/>
+ <SubModule name="hdmi_ui_inst" Register="157" Alu="58" Lut="890" MULTALU27X18="1" Bsram="1" T_Register="157(157)" T_Alu="58(58)" T_Lut="918(890)" T_MULTALU27X18="1(1)" T_Bsram="1(1)">
+  <SubModule name="font_rom_inst" Lut="28" T_Lut="28(28)"/>
+ </SubModule>
+ <SubModule name="DVI_TX_Top_inst0" Register="73" Alu="69" Lut="229" T_Register="73(73)" T_Alu="69(69)" T_Lut="229(229)"/>
+</Module>

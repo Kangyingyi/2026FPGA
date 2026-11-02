@@ -1,0 +1,190 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\top.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\uart_rx.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\uart_tx.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\ble_protocol_rx.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\ble_protocol_tx.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\ble_command_router.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\key_filter_8.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\score_ram.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\guide_controller.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\led_guide.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\pressure_led.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\polyphonic_timbre.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\legato_pitch.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\legato_dds.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\glide_dds.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\glide_voice_pitch.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\vibrato_dds.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\pitch_vibrato.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\effect_adsr.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_delay.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_echo.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_reverb.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_chorus.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\optical_pluck_trigger.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\polyphonic_pluck.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\pluck_voice.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\expressive_osc.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\instrument_voice.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\ads1115_reader.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\pressure_gain.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\sine_lut.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\i2s_tx.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\record_sampler.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\record_packetizer.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\tx_arbiter.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\spectrum_detector.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\spectrum_dft.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\spectrum_peak_metric.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\ui_data.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\waveform_history.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\video_timing_720p.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\font_rom.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_monitor.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\dvi_tx\DVI_TX_Top.v'
+Analyzing Verilog file 'E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\pll\TMDS_PLL_60HZ.v'
+Compiling module 'top'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\top.v":3)
+Compiling module 'key_filter_8(ACTIVE_LOW=0)'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\key_filter_8.v":3)
+Compiling module 'uart_rx(CLKS_PER_BIT=391)'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\uart_rx.v":3)
+Compiling module 'ble_protocol_rx'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\ble_protocol_rx.v":3)
+Compiling module 'ble_command_router'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\ble_command_router.v":3)
+Compiling module 'score_ram'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\score_ram.v":3)
+Extracting RAM for identifier 'pitch_mem'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\score_ram.v":19)
+Extracting RAM for identifier 'duration_mem'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\score_ram.v":20)
+Compiling module 'guide_controller'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\guide_controller.v":3)
+Compiling module 'led_guide'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\led_guide.v":3)
+Compiling module 'pressure_led'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\pressure_led.v":6)
+Compiling module 'polyphonic_timbre'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\polyphonic_timbre.v":3)
+Compiling module 'instrument_voice'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\instrument_voice.v":3)
+Compiling module 'expressive_osc'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\expressive_osc.v":3)
+Compiling module 'timbre_rom'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":3)
+Compiling module 'sine_lut'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\sine_lut.v":5)
+Compiling module 'legato_pitch'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\legato_pitch.v":4)
+Compiling module 'legato_dds'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\legato_dds.v":4)
+Compiling module 'glide_dds'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\glide_dds.v":4)
+Compiling module 'glide_voice_pitch(START_OFFSET_Q15=16'sb1111001000000111)'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\glide_voice_pitch.v":5)
+Compiling module 'vibrato_dds'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\vibrato_dds.v":4)
+Compiling module 'pitch_vibrato'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\pitch_vibrato.v":5)
+Compiling module 'effect_adsr'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\effect_adsr.v":5)
+WARN  (EX3791) : Expression size 18 truncated to fit in target size 16("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\effect_adsr.v":17)
+Compiling module 'audio_delay'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_delay.v":6)
+Extracting RAM for identifier 'ram'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_delay.v":17)
+WARN  (EX3791) : Expression size 15 truncated to fit in target size 14("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_delay.v":51)
+Compiling module 'audio_echo'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_echo.v":4)
+Extracting RAM for identifier 'ram'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_echo.v":14)
+Compiling module 'audio_reverb'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_reverb.v":5)
+Extracting RAM for identifier 'r0'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_reverb.v":15)
+Extracting RAM for identifier 'r1'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_reverb.v":16)
+Extracting RAM for identifier 'r2'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_reverb.v":17)
+Extracting RAM for identifier 'r3'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_reverb.v":18)
+WARN  (EX3791) : Expression size 13 truncated to fit in target size 12("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_reverb.v":82)
+WARN  (EX3791) : Expression size 13 truncated to fit in target size 12("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_reverb.v":83)
+WARN  (EX3791) : Expression size 13 truncated to fit in target size 12("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_reverb.v":84)
+WARN  (EX3791) : Expression size 14 truncated to fit in target size 13("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_reverb.v":85)
+Compiling module 'audio_chorus'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_chorus.v":3)
+Extracting RAM for identifier 'ram'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_chorus.v":4)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 10("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_chorus.v":5)
+WARN  (EX3791) : Expression size 11 truncated to fit in target size 10("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_chorus.v":12)
+Compiling module 'optical_pluck_trigger'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\optical_pluck_trigger.v":7)
+Compiling module 'polyphonic_pluck'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\polyphonic_pluck.v":5)
+Compiling module 'pluck_voice'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\pluck_voice.v":6)
+Compiling module 'ads1115_reader'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\ads1115_reader.v":6)
+Compiling module 'pressure_gain'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\pressure_gain.v":2)
+WARN  (EX3791) : Expression size 17 truncated to fit in target size 16("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\pressure_gain.v":15)
+Compiling module 'i2s_tx'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\i2s_tx.v":3)
+Compiling module 'hdmi_monitor'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_monitor.v":5)
+Compiling module 'spectrum_detector'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\spectrum_detector.v":6)
+Compiling module 'spectrum_dft'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\spectrum_dft.v":15)
+Extracting RAM for identifier 'sample_bank0'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\spectrum_dft.v":34)
+Extracting RAM for identifier 'sample_bank1'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\spectrum_dft.v":35)
+Compiling module 'spectrum_peak_metric'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\spectrum_peak_metric.v":6)
+WARN  (EX3791) : Expression size 16 truncated to fit in target size 12("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\spectrum_peak_metric.v":65)
+Compiling module 'TMDS_PLL'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\pll\TMDS_PLL_60HZ.v":10)
+Compiling module 'video_timing_720p'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\video_timing_720p.v":4)
+Compiling module 'ui_data'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\ui_data.v":6)
+Compiling module 'waveform_history'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\waveform_history.v":5)
+Compiling module 'hdmi_ui'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":5)
+Compiling module 'font_rom'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\font_rom.v":4)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":314)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":318)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":319)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":323)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":324)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":328)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":329)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":333)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":334)
+WARN  (EX3791) : Expression size 30 truncated to fit in target size 3("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":339)
+WARN  (EX3791) : Expression size 30 truncated to fit in target size 4("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":340)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":343)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":344)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":348)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":349)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":353)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":354)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":358)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":359)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":363)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":364)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":368)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":369)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":373)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":374)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":378)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":379)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":383)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":384)
+WARN  (EX3791) : Expression size 30 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":454)
+WARN  (EX3791) : Expression size 24 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":457)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":481)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 8("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v":483)
+Compiling module 'DVI_TX_Top'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\dvi_tx\DVI_TX_Top.v":1089)
+Compiling module '**'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\dvi_tx\DVI_TX_Top.v":1088)
+Compiling module 'record_sampler'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\record_sampler.v":3)
+Compiling module 'record_packetizer'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\record_packetizer.v":3)
+Compiling module 'ble_protocol_tx'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\ble_protocol_tx.v":3)
+Compiling module 'tx_arbiter'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\tx_arbiter.v":3)
+Compiling module 'uart_tx(CLKS_PER_BIT=391)'("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\uart_tx.v":3)
+NOTE  (EX0101) : Current top module is "top"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "ui_data" instantiated to "ui_data_inst" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_monitor.v":202)
+WARN  (NL0002) : The module "led_guide" instantiated to "led_guide_inst" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\top.v":120)
+WARN  (NL0002) : The module "sine_lut" instantiated to "s2" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":11)
+WARN  (NL0002) : The module "sine_lut" instantiated to "s4" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":13)
+WARN  (NL0002) : The module "sine_lut" instantiated to "s2" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":11)
+WARN  (NL0002) : The module "sine_lut" instantiated to "s4" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":13)
+WARN  (NL0002) : The module "sine_lut" instantiated to "s2" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":11)
+WARN  (NL0002) : The module "sine_lut" instantiated to "s4" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":13)
+WARN  (NL0002) : The module "sine_lut" instantiated to "s2" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":11)
+WARN  (NL0002) : The module "sine_lut" instantiated to "s4" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":13)
+WARN  (NL0002) : The module "sine_lut" instantiated to "s2" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":11)
+WARN  (NL0002) : The module "sine_lut" instantiated to "s4" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":13)
+WARN  (NL0002) : The module "sine_lut" instantiated to "s2" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":11)
+WARN  (NL0002) : The module "sine_lut" instantiated to "s4" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":13)
+WARN  (NL0002) : The module "sine_lut" instantiated to "s2" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":11)
+WARN  (NL0002) : The module "sine_lut" instantiated to "s4" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":13)
+WARN  (NL0002) : The module "sine_lut" instantiated to "s2" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":11)
+WARN  (NL0002) : The module "sine_lut" instantiated to "s4" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v":13)
+WARN  (NL0002) : The module "pressure_led" instantiated to "pressure_led_inst" is swept in optimizing("E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\top.v":121)
+[95%] Generate netlist file "E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\impl\gwsynthesis\ble_music_keyboard.vg" completed
+[100%] Generate report file "E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\impl\gwsynthesis\ble_music_keyboard_syn.rpt.html" completed
+GowinSynthesis finish

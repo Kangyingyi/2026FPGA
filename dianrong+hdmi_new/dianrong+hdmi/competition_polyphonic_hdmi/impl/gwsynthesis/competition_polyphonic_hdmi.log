@@ -1,0 +1,89 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\key_filter_8.v'
+Analyzing Verilog file 'D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\polyphonic_dds.v'
+Analyzing Verilog file 'D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\i2s_tx.v'
+Analyzing Verilog file 'D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\uart_tx.v'
+Analyzing Verilog file 'D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\uart_telemetry.v'
+Analyzing Verilog file 'D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_detector.v'
+Analyzing Verilog file 'D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_dft.v'
+Analyzing Verilog file 'D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_peak_metric.v'
+Analyzing Verilog file 'D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\ui_data.v'
+Analyzing Verilog file 'D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\waveform_history.v'
+Analyzing Verilog file 'D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\video_timing_720p.v'
+Analyzing Verilog file 'D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\font_rom.v'
+Analyzing Verilog file 'D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v'
+Analyzing Verilog file 'D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\dvi_tx\DVI_TX_Top.v'
+Analyzing Verilog file 'D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\pll\TMDS_PLL_60HZ.v'
+Analyzing Verilog file 'D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\top_hdmi.v'
+Compiling module 'top_hdmi'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\top_hdmi.v":4)
+Compiling module 'key_filter_8'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\key_filter_8.v":5)
+Compiling module 'polyphonic_dds'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\polyphonic_dds.v":6)
+Compiling module 'spectrum_detector'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_detector.v":6)
+Compiling module 'spectrum_dft'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_dft.v":15)
+Extracting RAM for identifier 'sample_bank0'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_dft.v":34)
+Extracting RAM for identifier 'sample_bank1'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_dft.v":35)
+Compiling module 'spectrum_peak_metric'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_peak_metric.v":6)
+WARN  (EX3791) : Expression size 16 truncated to fit in target size 12("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_peak_metric.v":65)
+Compiling module 'uart_telemetry'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\uart_telemetry.v":8)
+Compiling module 'uart_tx'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\uart_tx.v":5)
+Compiling module 'i2s_tx'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\i2s_tx.v":8)
+Compiling module 'TMDS_PLL'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\pll\TMDS_PLL_60HZ.v":10)
+Compiling module 'video_timing_720p'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\video_timing_720p.v":4)
+Compiling module 'ui_data'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\ui_data.v":6)
+Compiling module 'waveform_history'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\waveform_history.v":5)
+Compiling module 'hdmi_ui'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":5)
+Compiling module 'font_rom'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\font_rom.v":4)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":313)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":317)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":318)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":322)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":323)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":327)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":328)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":332)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":333)
+WARN  (EX3791) : Expression size 30 truncated to fit in target size 3("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":338)
+WARN  (EX3791) : Expression size 30 truncated to fit in target size 4("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":339)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":342)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":343)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":347)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":348)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":352)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":353)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":357)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":358)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":362)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":363)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":367)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":368)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":372)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":373)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":377)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":378)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 8("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":382)
+WARN  (EX3791) : Expression size 31 truncated to fit in target size 3("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":383)
+WARN  (EX3791) : Expression size 30 truncated to fit in target size 8("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":451)
+WARN  (EX3791) : Expression size 24 truncated to fit in target size 8("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v":454)
+Compiling module 'DVI_TX_Top'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\dvi_tx\DVI_TX_Top.v":1089)
+Compiling module '**'("D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\dvi_tx\DVI_TX_Top.v":1088)
+NOTE  (EX0101) : Current top module is "top_hdmi"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\impl\gwsynthesis\competition_polyphonic_hdmi.vg" completed
+[100%] Generate report file "D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\impl\gwsynthesis\competition_polyphonic_hdmi_syn.rpt.html" completed
+GowinSynthesis finish

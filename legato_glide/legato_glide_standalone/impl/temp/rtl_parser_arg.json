@@ -1,0 +1,32 @@
+{
+    "Device": "GW5AT-60B",
+    "Files": [
+        {
+            "Path": "E:/FPGA/work/legato_glide_standalone/src/key_filter_8.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "E:/FPGA/work/legato_glide_standalone/src/legato_pitch.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "E:/FPGA/work/legato_glide_standalone/src/legato_dds.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "E:/FPGA/work/legato_glide_standalone/src/i2s_tx.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "E:/FPGA/work/legato_glide_standalone/src/legato_top.v",
+            "Type": "verilog"
+        }
+    ],
+    "IncludePath": [
+    ],
+    "LoopLimit": 2000,
+    "ResultFile": "E:/FPGA/work/legato_glide_standalone/impl/temp/rtl_parser.result",
+    "Top": "",
+    "VerilogStd": "verilog_2001",
+    "VhdlStd": "vhdl_93"
+}

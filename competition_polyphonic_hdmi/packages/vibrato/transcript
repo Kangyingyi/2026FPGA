@@ -1,0 +1,10 @@
+# vsim -c -lib simlib tb_pitch_vibrato -do "run -all; quit -f" 
+# Start time: 19:36:50 on Oct 21,2026
+# Loading simlib.tb_pitch_vibrato
+# Loading simlib.pitch_vibrato
+# run -all
+# TB_PITCH_VIBRATO_PACKAGE_PASS
+# ** Note: $finish    : sim/tb_pitch_vibrato.v(61)
+#    Time: 73322 ns  Iteration: 0  Instance: /tb_pitch_vibrato
+# End time: 19:36:50 on Oct 21,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

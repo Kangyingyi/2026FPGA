@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/FPGA/work/competition_polyphonic_hdmi
+vspectrum_dft
+Z1 !s110 1791725862
+!i10b 1
+!s100 UHTG68=E5TNLAO=ZYA1`b0
+I3oGgVC7aYkziOKeJH:M:j1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1791725720
+8src\spectrum_dft.v
+Fsrc\spectrum_dft.v
+L0 15
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1791725862.000000
+Z5 !s107 src\spectrum_dft.v|sim\tb_spectrum_dft.v|
+Z6 !s90 -work|simlib_dft_green3|-vlog01compat|sim\tb_spectrum_dft.v|src\spectrum_dft.v|
+!i113 1
+Z7 o-work simlib_dft_green3 -vlog01compat
+Z8 tCvgOpt 0
+vtb_spectrum_dft
+R1
+!i10b 1
+!s100 @1>oKJOWmI[2_UX@QT_f_2
+IVz1RWj:f7@YO3hkEhO4?83
+R2
+R0
+w1791725849
+8sim\tb_spectrum_dft.v
+Fsim\tb_spectrum_dft.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8

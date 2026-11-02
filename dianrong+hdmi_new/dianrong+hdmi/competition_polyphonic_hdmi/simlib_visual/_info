@@ -1,0 +1,642 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/gaoyun/dianrong+hdmi/competition_polyphonic_hdmi
+vDVI_TX_Top
+Z1 !s110 1792674379
+!i10b 1
+!s100 TXME`9j6P3SVYcQfC4HSE0
+IUClNMbg>B_W1oB`Sgz:A00
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1792491866
+Z4 8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_visibility.v
+Z5 FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_visibility.v
+L0 56
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1792674379.000000
+Z8 !s107 D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\waveform_history.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\video_timing_720p.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\ui_data.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\uart_tx.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\uart_telemetry.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\top_hdmi.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_peak_metric.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_dft.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_detector.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\polyphonic_dds.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\key_filter_8.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\i2s_tx.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\font_rom.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_waveform_interpolation.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_waveform_history.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_video_ui.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_video_timing.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_ui_metrics.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_ui_data.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_visibility.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_real_level.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_peak_metric.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_from_dds.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_dft.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_detector.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_key_filter_8_touch.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_hdmi_display_regression.v|
+Z9 !s90 -work|simlib_visual|-vlog01compat|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_hdmi_display_regression.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_key_filter_8_touch.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_detector.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_dft.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_from_dds.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_peak_metric.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_real_level.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_visibility.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_ui_data.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_ui_metrics.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_video_timing.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_video_ui.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_waveform_history.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_waveform_interpolation.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\font_rom.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\hdmi_ui.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\i2s_tx.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\key_filter_8.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\polyphonic_dds.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_detector.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_dft.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_peak_metric.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\top_hdmi.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\uart_telemetry.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\uart_tx.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\ui_data.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\video_timing_720p.v|D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\waveform_history.v|
+!i113 1
+Z10 o-work simlib_visual -vlog01compat
+Z11 tCvgOpt 0
+n@d@v@i_@t@x_@top
+vfont_rom
+Z12 !s110 1792674634
+!i10b 1
+!s100 ^a6`TOY61<EP9M`5cV07h3
+Iic;IR=OXQdNJYjiAYe>RZ3
+R2
+R0
+w1792152221
+8src\font_rom.v
+Fsrc\font_rom.v
+L0 4
+R6
+r1
+!s85 0
+31
+Z13 !s108 1792674634.000000
+Z14 !s107 src\font_rom.v|src\hdmi_ui.v|sim\tb_waveform_interpolation.v|
+Z15 !s90 -work|simlib_visual|-vlog01compat|sim\tb_waveform_interpolation.v|src\hdmi_ui.v|src\font_rom.v|
+!i113 1
+R10
+R11
+vhdmi_ui
+R12
+!i10b 1
+!s100 WPgI78H]1nRL;=C;Na?;U0
+I60:zVW`RD3N<iiRiilcIT1
+R2
+R0
+w1792674206
+8src\hdmi_ui.v
+Fsrc\hdmi_ui.v
+L0 5
+R6
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R10
+R11
+vi2s_tx
+R1
+!i10b 1
+!s100 ch=Y8<1K_RG0lPPaCT;FG2
+I<iYPTLZZbD_3JIf;BdXF@0
+R2
+R0
+Z16 w1790839209
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\i2s_tx.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\i2s_tx.v
+L0 8
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vkey_filter_8
+R1
+!i10b 1
+!s100 ;<cC[IB^U7?zN9O_foUY_2
+Io2g:SaXacT8?oQfG5HhXb3
+R2
+R0
+Z17 w1792491765
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\key_filter_8.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\key_filter_8.v
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vpolyphonic_dds
+R1
+!i10b 1
+!s100 FNa82J^6>6_c@zaI03ON42
+Ic9[Y5_8Q7ca35_nD04_Y_0
+R2
+R0
+R16
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\polyphonic_dds.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\polyphonic_dds.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vspectrum_detector
+R1
+!i10b 1
+!s100 >L2N_cL@<AgXBmj[?5`?A1
+ID<8eNQ;h]eUJSobU:kMzO2
+R2
+R0
+w1791722763
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_detector.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_detector.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vspectrum_dft
+R1
+!i10b 1
+!s100 Y]N2SCi3N^k=df_zNzYhm1
+IJ9e3[R:HGGBHCnEYZMBdB2
+R2
+R0
+w1792150023
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_dft.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_dft.v
+L0 15
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vspectrum_peak_metric
+R1
+!i10b 1
+!s100 VW[IcM>:P6Q:K3I1Pioi`0
+ITTm>5eL9]BQaXiUeznG>]0
+R2
+R0
+w1792237197
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_peak_metric.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\spectrum_peak_metric.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_hdmi_display_regression
+R1
+!i10b 1
+!s100 laYKlD3VX;A:X<YDaVi9W2
+I@PdmKomIhFj^CeAdBdnKg2
+R2
+R0
+w1792674253
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_hdmi_display_regression.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_hdmi_display_regression.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_key_filter_8_touch
+R1
+!i10b 1
+!s100 gH;Q06a6;3g@2253LI;F42
+ILVhFXE`z0Q]:;0ad7lQc]1
+R2
+R0
+w1792491792
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_key_filter_8_touch.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_key_filter_8_touch.v
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_spectrum_detector
+R1
+!i10b 1
+!s100 8AeF3]`zVnL29G4d5A2ci0
+IL_ioYK_>MhUO>_H^@_^k^0
+R2
+R0
+w1791721242
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_detector.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_detector.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_spectrum_dft
+R1
+!i10b 1
+!s100 1C7i@J?=MS?_o^TWEYSeL1
+INPYbfX;9LnCa=cMbU`eH91
+R2
+R0
+w1791725894
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_dft.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_dft.v
+L0 7
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_spectrum_from_dds
+R1
+!i10b 1
+!s100 4CE4Ii5aL`ng5DNm>GV@h1
+InZ<`iPi:X^iKHhVNGIkVD3
+R2
+R0
+w1792152272
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_from_dds.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_from_dds.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_spectrum_peak_metric
+R1
+!i10b 1
+!s100 O?D1i^1<mS8M<LGGZ>Il92
+IJ8b[_J7JWLV2V4[n:L_KS3
+R2
+R0
+w1792237165
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_peak_metric.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_peak_metric.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_spectrum_real_level
+R1
+!i10b 1
+!s100 dhla_bk]6]=`<MRLMM2<F1
+IcG0Zg4Ah8iA60lBFn`L:80
+R2
+R0
+w1792150398
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_real_level.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_spectrum_real_level.v
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_spectrum_visibility
+R1
+!i10b 1
+!s100 kb41jaHaGA<0C@D_;2ooD3
+Ioi[8:446FO3g=0XG[HzFa1
+R2
+R0
+R3
+R4
+R5
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_ui_data
+R1
+!i10b 1
+!s100 SYS<^JbBY;7ELGa1WKkPF0
+I>jYE@3BNi]8fL<9HI_NV42
+R2
+R0
+w1791711091
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_ui_data.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_ui_data.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_ui_metrics
+R1
+!i10b 1
+!s100 oZc7QzVUOO15dkL^d0Aho1
+I<:>VmT>2CPT`c;OdNiG0V3
+R2
+R0
+w1792236091
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_ui_metrics.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_ui_metrics.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_video_timing
+R1
+!i10b 1
+!s100 3E8mi;]deaGQS2Wg<G_DB1
+I`XB3A;47odWA@]]cBM`^F0
+R2
+R0
+w1791711168
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_video_timing.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_video_timing.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_video_ui
+R1
+!i10b 1
+!s100 WgmfQoA^lnWPnKH`?a57F1
+I2E>?1YCb6]5`Ei9667>Vc0
+R2
+R0
+w1792153569
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_video_ui.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_video_ui.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_waveform_history
+R1
+!i10b 1
+!s100 >i`3>3n]gkI<Xh@>kQdF21
+IHFnZ[EVLYW8jWUS=1;LG<3
+R2
+R0
+w1791719792
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_waveform_history.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\sim\tb_waveform_history.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_waveform_interpolation
+R12
+!i10b 1
+!s100 6jQiDo7jz2CHGQ7XK0CQf3
+IAi3;C4n5VNLcPi7FI=K?K0
+R2
+R0
+w1792674568
+8sim\tb_waveform_interpolation.v
+Fsim\tb_waveform_interpolation.v
+L0 5
+R6
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R10
+R11
+vTMDS_PLL
+R1
+!i10b 1
+!s100 ]Hmbl9aP_K]ML5iI0X:T]3
+I7ng=O8igf9UgT@=]EDecf0
+R2
+R0
+R3
+R4
+R5
+L0 50
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@t@m@d@s_@p@l@l
+vtop_hdmi
+R1
+!i10b 1
+!s100 PYaY3P;U:<FLN6f3N^ng@3
+Ib:IzzPD?gac1A@?^Pz;>Y1
+R2
+R0
+R17
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\top_hdmi.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\top_hdmi.v
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vuart_telemetry
+R1
+!i10b 1
+!s100 Vbj6:K=QI]<J^R<iX]Ilf1
+IG=DF0ZWz10E;:IOI1Az0K3
+R2
+R0
+w1790843252
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\uart_telemetry.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\uart_telemetry.v
+L0 8
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vuart_tx
+R1
+!i10b 1
+!s100 H_aTEKH8TDzZQYMB@7[3g0
+I74@5G<Ke]7Q^lCOP5b9o_0
+R2
+R0
+w1790840479
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\uart_tx.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\uart_tx.v
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vui_data
+R1
+!i10b 1
+!s100 M4jf3DNc?0TED@]i42?<P0
+ICnO?:3[1BJQVziNWFnS?@0
+R2
+R0
+w1791711144
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\ui_data.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\ui_data.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vvideo_timing_720p
+R1
+!i10b 1
+!s100 BU8:?e6b]KnL29MW;@[[B3
+IXJXPHWo18KJYUnWYDN6AF1
+R2
+R0
+w1791711226
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\video_timing_720p.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\video_timing_720p.v
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vwaveform_history
+R1
+!i10b 1
+!s100 >2f;;HI]ec0nWU@88e6cG1
+I<;@M1HnOT;ifZ;CIMDHZo2
+R2
+R0
+w1791719817
+8D:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\waveform_history.v
+FD:\gaoyun\dianrong+hdmi\competition_polyphonic_hdmi\src\waveform_history.v
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

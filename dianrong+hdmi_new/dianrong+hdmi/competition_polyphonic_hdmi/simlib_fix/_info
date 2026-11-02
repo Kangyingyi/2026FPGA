@@ -1,0 +1,494 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/FPGA/work/competition_polyphonic_hdmi
+vfont_rom
+Z1 !s110 1792154503
+!i10b 1
+!s100 ^a6`TOY61<EP9M`5cV07h3
+IKf_VTc8z1jECWLF7b=ABL3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1792152221
+8src\font_rom.v
+Fsrc\font_rom.v
+L0 4
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1792154503.000000
+Z5 !s107 src\hdmi_ui.v|src\font_rom.v|src\video_timing_720p.v|src\waveform_history.v|src\ui_data.v|src\spectrum_dft.v|src\spectrum_detector.v|src\uart_telemetry.v|src\uart_tx.v|src\i2s_tx.v|src\polyphonic_dds.v|src\key_filter_8.v|sim\tb_hdmi_display_regression.v|sim\tb_video_ui.v|sim\tb_video_timing.v|sim\tb_ui_data.v|sim\tb_waveform_history.v|sim\tb_spectrum_from_dds.v|sim\tb_spectrum_real_level.v|sim\tb_spectrum_dft.v|sim\tb_spectrum_detector.v|
+Z6 !s90 -work|simlib_fix|-vlog01compat|sim\tb_spectrum_detector.v|sim\tb_spectrum_dft.v|sim\tb_spectrum_real_level.v|sim\tb_spectrum_from_dds.v|sim\tb_waveform_history.v|sim\tb_ui_data.v|sim\tb_video_timing.v|sim\tb_video_ui.v|sim\tb_hdmi_display_regression.v|src\key_filter_8.v|src\polyphonic_dds.v|src\i2s_tx.v|src\uart_tx.v|src\uart_telemetry.v|src\spectrum_detector.v|src\spectrum_dft.v|src\ui_data.v|src\waveform_history.v|src\video_timing_720p.v|src\font_rom.v|src\hdmi_ui.v|
+!i113 1
+Z7 o-work simlib_fix -vlog01compat
+Z8 tCvgOpt 0
+vhdmi_ui
+R1
+!i10b 1
+!s100 Q@Rm4E4@D<Xa1F_D9LkF23
+I=?PmU8OSH^JzlzABdn[D80
+R2
+R0
+w1792154311
+8src\hdmi_ui.v
+Fsrc\hdmi_ui.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vi2s_tx
+R1
+!i10b 1
+!s100 ch=Y8<1K_RG0lPPaCT;FG2
+I[Xj[JRUQ4UJjI959G8l<`2
+R2
+R0
+Z9 w1790839209
+8src\i2s_tx.v
+Fsrc\i2s_tx.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vkey_filter_8
+R1
+!i10b 1
+!s100 njW^[mQMjC59Ai5n0HJh23
+ITQGo4C76<G[W9PAlP[iXa2
+R2
+R0
+R9
+8src\key_filter_8.v
+Fsrc\key_filter_8.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vpolyphonic_dds
+R1
+!i10b 1
+!s100 FNa82J^6>6_c@zaI03ON42
+IYV:d]gBXT;PZjSJXOCjPo2
+R2
+R0
+R9
+8src\polyphonic_dds.v
+Fsrc\polyphonic_dds.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vspectrum_detector
+R1
+!i10b 1
+!s100 >L2N_cL@<AgXBmj[?5`?A1
+I;hILN?mCZ_VIE<7<kf0Ie1
+R2
+R0
+w1791722763
+8src\spectrum_detector.v
+Fsrc\spectrum_detector.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vspectrum_dft
+R1
+!i10b 1
+!s100 Y]N2SCi3N^k=df_zNzYhm1
+I]h[bg<Vg@fB4J^flN5ke`2
+R2
+R0
+w1792150023
+8src\spectrum_dft.v
+Fsrc\spectrum_dft.v
+L0 15
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_hdmi_display_regression
+R1
+!i10b 1
+!s100 glMo=>bTI?B?WLee9DMTX0
+I[D`RH0I^PFDR]QC[5L3<m1
+R2
+R0
+w1792152312
+8sim\tb_hdmi_display_regression.v
+Fsim\tb_hdmi_display_regression.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_spectrum_detector
+R1
+!i10b 1
+!s100 8AeF3]`zVnL29G4d5A2ci0
+I0DWz1CdCeaMA[mEKbJS[11
+R2
+R0
+w1791721242
+8sim\tb_spectrum_detector.v
+Fsim\tb_spectrum_detector.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_spectrum_dft
+R1
+!i10b 1
+!s100 1C7i@J?=MS?_o^TWEYSeL1
+IVDYB>@E7L>GnBfc1<m1:n0
+R2
+R0
+w1791725894
+8sim\tb_spectrum_dft.v
+Fsim\tb_spectrum_dft.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_spectrum_from_dds
+R1
+!i10b 1
+!s100 4CE4Ii5aL`ng5DNm>GV@h1
+I`5_oO8?a<AL;cHkJbg]Cf1
+R2
+R0
+w1792152272
+8sim\tb_spectrum_from_dds.v
+Fsim\tb_spectrum_from_dds.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_spectrum_real_level
+R1
+!i10b 1
+!s100 dhla_bk]6]=`<MRLMM2<F1
+I;9j035dIZAnhmocNM^i9l2
+R2
+R0
+w1792150398
+8sim\tb_spectrum_real_level.v
+Fsim\tb_spectrum_real_level.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_ui_data
+R1
+!i10b 1
+!s100 SYS<^JbBY;7ELGa1WKkPF0
+Ibm1F==zVjl`zZJoYR6Ak<0
+R2
+R0
+w1791711091
+8sim\tb_ui_data.v
+Fsim\tb_ui_data.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_video_timing
+R1
+!i10b 1
+!s100 3E8mi;]deaGQS2Wg<G_DB1
+I40H>cS063IeAPf=dD>T8n3
+R2
+R0
+w1791711168
+8sim\tb_video_timing.v
+Fsim\tb_video_timing.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_video_ui
+R1
+!i10b 1
+!s100 WgmfQoA^lnWPnKH`?a57F1
+IFWc=W^25Vd=54@lV7>OcE0
+R2
+R0
+w1792153569
+8sim\tb_video_ui.v
+Fsim\tb_video_ui.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_waveform_history
+R1
+!i10b 1
+!s100 >i`3>3n]gkI<Xh@>kQdF21
+Io03=gG2ROcWgj^>2Mf^RK1
+R2
+R0
+w1791719792
+8sim\tb_waveform_history.v
+Fsim\tb_waveform_history.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vTMDS_PLL
+Z10 !s110 1792150680
+!i10b 1
+!s100 2XTPUiPeHVOf]`kA3Vgk[2
+I0Kha4N8e7HQzMIn;UZ[1n3
+R2
+R0
+w1790087545
+8src\pll\TMDS_PLL_60HZ.v
+Fsrc\pll\TMDS_PLL_60HZ.v
+L0 10
+R3
+r1
+!s85 0
+31
+Z11 !s108 1792150680.000000
+Z12 !s107 src\top_hdmi.v|src\pll\TMDS_PLL_60HZ.v|src\hdmi_ui.v|src\font_rom.v|src\video_timing_720p.v|src\waveform_history.v|src\ui_data.v|src\spectrum_dft.v|src\spectrum_detector.v|src\uart_telemetry.v|src\uart_tx.v|src\i2s_tx.v|src\polyphonic_dds.v|src\key_filter_8.v|sim\tb_hdmi_display_regression.v|sim\tb_video_ui.v|sim\tb_video_timing.v|sim\tb_ui_data.v|sim\tb_waveform_history.v|sim\tb_spectrum_real_level.v|sim\tb_spectrum_dft.v|sim\tb_spectrum_detector.v|
+Z13 !s90 -work|simlib_fix|-vlog01compat|sim\tb_spectrum_detector.v|sim\tb_spectrum_dft.v|sim\tb_spectrum_real_level.v|sim\tb_waveform_history.v|sim\tb_ui_data.v|sim\tb_video_timing.v|sim\tb_video_ui.v|sim\tb_hdmi_display_regression.v|src\key_filter_8.v|src\polyphonic_dds.v|src\i2s_tx.v|src\uart_tx.v|src\uart_telemetry.v|src\spectrum_detector.v|src\spectrum_dft.v|src\ui_data.v|src\waveform_history.v|src\video_timing_720p.v|src\font_rom.v|src\hdmi_ui.v|src\pll\TMDS_PLL_60HZ.v|src\top_hdmi.v|
+!i113 1
+R7
+R8
+n@t@m@d@s_@p@l@l
+vtop_hdmi
+R10
+!i10b 1
+!s100 dUK4>DI;=_Vj9nCFghlfz2
+I7;jBJ9PY5U9K4iKAjO3fM3
+R2
+R0
+w1791726032
+8src\top_hdmi.v
+Fsrc\top_hdmi.v
+L0 4
+R3
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 1
+R7
+R8
+vuart_telemetry
+R1
+!i10b 1
+!s100 Vbj6:K=QI]<J^R<iX]Ilf1
+I4fkb9830Y77?[IM`HnUkV2
+R2
+R0
+w1790843252
+8src\uart_telemetry.v
+Fsrc\uart_telemetry.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vuart_tx
+R1
+!i10b 1
+!s100 H_aTEKH8TDzZQYMB@7[3g0
+I?5nXGkUAhc<Q4CcIcd9VN3
+R2
+R0
+w1790840479
+8src\uart_tx.v
+Fsrc\uart_tx.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vui_data
+R1
+!i10b 1
+!s100 M4jf3DNc?0TED@]i42?<P0
+IzLLRYJnM0S3]0zF:_dKRL0
+R2
+R0
+w1791711144
+8src\ui_data.v
+Fsrc\ui_data.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vvideo_timing_720p
+R1
+!i10b 1
+!s100 BU8:?e6b]KnL29MW;@[[B3
+I85oLk>7EoaM`nK4B1?b@R0
+R2
+R0
+w1791711226
+8src\video_timing_720p.v
+Fsrc\video_timing_720p.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vwaveform_history
+R1
+!i10b 1
+!s100 >2f;;HI]ec0nWU@88e6cG1
+IJz4Q]R_XjG1gInFSzDlZ80
+R2
+R0
+w1791719817
+8src\waveform_history.v
+Fsrc\waveform_history.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8

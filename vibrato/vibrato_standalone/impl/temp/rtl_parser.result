@@ -1,0 +1,46 @@
+[
+    {
+        "InstFile": "E:/FPGA/work/vibrato_standalone/src/vibrato_top.v",
+        "InstLine": 4,
+        "InstName": "vibrato_top",
+        "ModuleFile": "E:/FPGA/work/vibrato_standalone/src/vibrato_top.v",
+        "ModuleLine": 4,
+        "ModuleName": "vibrato_top",
+        "SubInsts": [
+            {
+                "InstFile": "E:/FPGA/work/vibrato_standalone/src/vibrato_top.v",
+                "InstLine": 21,
+                "InstName": "keys",
+                "ModuleFile": "E:/FPGA/work/vibrato_standalone/src/key_filter_8.v",
+                "ModuleLine": 5,
+                "ModuleName": "key_filter_8"
+            },
+            {
+                "InstFile": "E:/FPGA/work/vibrato_standalone/src/vibrato_top.v",
+                "InstLine": 29,
+                "InstName": "synth",
+                "ModuleFile": "E:/FPGA/work/vibrato_standalone/src/vibrato_dds.v",
+                "ModuleLine": 4,
+                "ModuleName": "vibrato_dds",
+                "SubInsts": [
+                    {
+                        "InstFile": "E:/FPGA/work/vibrato_standalone/src/vibrato_dds.v",
+                        "InstLine": 75,
+                        "InstName": "vibrato",
+                        "ModuleFile": "E:/FPGA/work/vibrato_standalone/src/pitch_vibrato.v",
+                        "ModuleLine": 5,
+                        "ModuleName": "pitch_vibrato"
+                    }
+                ]
+            },
+            {
+                "InstFile": "E:/FPGA/work/vibrato_standalone/src/vibrato_top.v",
+                "InstLine": 34,
+                "InstName": "tx",
+                "ModuleFile": "E:/FPGA/work/vibrato_standalone/src/i2s_tx.v",
+                "ModuleLine": 8,
+                "ModuleName": "i2s_tx"
+            }
+        ]
+    }
+]

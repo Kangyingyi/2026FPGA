@@ -1,0 +1,15 @@
+# vsim -c -lib simlib_visual tb_waveform_interpolation -do "run -all; quit -f" 
+# Start time: 21:10:34 on Oct 22,2026
+# Loading simlib_visual.tb_waveform_interpolation
+# Loading simlib_visual.hdmi_ui
+# Loading simlib_visual.font_rom
+# ** Warning: (vsim-3017) sim/tb_waveform_interpolation.v(19): [TFMPC] - Too few port connections. Expected 17, found 15.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_waveform_interpolation/dut File: src/hdmi_ui.v
+# ** Warning: (vsim-3722) sim/tb_waveform_interpolation.v(19): [TFMPC] - Missing connection for port 'peak_bcd'.
+# ** Warning: (vsim-3722) sim/tb_waveform_interpolation.v(19): [TFMPC] - Missing connection for port 'peak_valid'.
+# run -all
+# TB_WAVEFORM_INTERPOLATION_PASS
+# ** Note: $finish    : sim/tb_waveform_interpolation.v(62)
+#    Time: 146 ns  Iteration: 0  Instance: /tb_waveform_interpolation
+# End time: 21:10:35 on Oct 22,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 3

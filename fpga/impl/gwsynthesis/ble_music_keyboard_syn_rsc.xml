@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Register="37" Lut="295" T_Register="6619(37)" T_Alu="4949(0)" T_Lut="14228(295)" T_MULTALU27X18="42(0)" T_MULT27X36="1(0)" T_Bsram="46(0)">
+ <SubModule name="key_filter_inst" Register="176" Lut="289" T_Register="176(176)" T_Lut="289(289)"/>
+ <SubModule name="ble_rx_inst" Register="34" Lut="44" T_Register="34(34)" T_Lut="44(44)"/>
+ <SubModule name="protocol_rx_inst" Register="68" Alu="16" Lut="90" T_Register="68(68)" T_Alu="16(16)" T_Lut="90(90)"/>
+ <SubModule name="command_router_inst" Register="33" Lut="44" T_Register="33(33)" T_Lut="44(44)"/>
+ <SubModule name="score_ram_inst" Register="225" Lut="227" T_Register="225(225)" T_Lut="227(227)"/>
+ <SubModule name="guide_controller_inst" Register="11" Lut="36" T_Register="11(11)" T_Lut="36(36)"/>
+ <SubModule name="audio_engine" Alu="161" Lut="30" T_Register="507(0)" T_Alu="1359(161)" T_Lut="1859(30)" T_MULTALU27X18="8(0)">
+  <SubModule name="v_0" Register="64" Alu="30" Lut="127" MULTALU27X18="1" T_Register="64(64)" T_Alu="151(30)" T_Lut="225(127)" T_MULTALU27X18="1(1)">
+   <SubModule name="osc" T_Alu="121(0)" T_Lut="98(0)">
+    <SubModule name="rom" Alu="121" Lut="66" T_Alu="121(121)" T_Lut="98(66)">
+     <SubModule name="s1" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s2" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s3" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s4" Lut="8" T_Lut="8(8)"/>
+    </SubModule>
+   </SubModule>
+  </SubModule>
+  <SubModule name="v_1" Register="64" Alu="30" Lut="131" MULTALU27X18="1" T_Register="64(64)" T_Alu="151(30)" T_Lut="229(131)" T_MULTALU27X18="1(1)">
+   <SubModule name="osc" T_Alu="121(0)" T_Lut="98(0)">
+    <SubModule name="rom" Alu="121" Lut="66" T_Alu="121(121)" T_Lut="98(66)">
+     <SubModule name="s1" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s2" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s3" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s4" Lut="8" T_Lut="8(8)"/>
+    </SubModule>
+   </SubModule>
+  </SubModule>
+  <SubModule name="v_2" Register="64" Alu="30" Lut="130" MULTALU27X18="1" T_Register="64(64)" T_Alu="151(30)" T_Lut="228(130)" T_MULTALU27X18="1(1)">
+   <SubModule name="osc" T_Alu="121(0)" T_Lut="98(0)">
+    <SubModule name="rom" Alu="121" Lut="66" T_Alu="121(121)" T_Lut="98(66)">
+     <SubModule name="s1" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s2" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s3" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s4" Lut="8" T_Lut="8(8)"/>
+    </SubModule>
+   </SubModule>
+  </SubModule>
+  <SubModule name="v_3" Register="63" Alu="29" Lut="131" MULTALU27X18="1" T_Register="63(63)" T_Alu="149(29)" T_Lut="229(131)" T_MULTALU27X18="1(1)">
+   <SubModule name="osc" T_Alu="120(0)" T_Lut="98(0)">
+    <SubModule name="rom" Alu="120" Lut="66" T_Alu="120(120)" T_Lut="98(66)">
+     <SubModule name="s1" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s2" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s3" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s4" Lut="8" T_Lut="8(8)"/>
+    </SubModule>
+   </SubModule>
+  </SubModule>
+  <SubModule name="v_4" Register="64" Alu="30" Lut="134" MULTALU27X18="1" T_Register="64(64)" T_Alu="151(30)" T_Lut="232(134)" T_MULTALU27X18="1(1)">
+   <SubModule name="osc" T_Alu="121(0)" T_Lut="98(0)">
+    <SubModule name="rom" Alu="121" Lut="66" T_Alu="121(121)" T_Lut="98(66)">
+     <SubModule name="s1" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s2" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s3" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s4" Lut="8" T_Lut="8(8)"/>
+    </SubModule>
+   </SubModule>
+  </SubModule>
+  <SubModule name="v_5" Register="64" Alu="30" Lut="133" MULTALU27X18="1" T_Register="64(64)" T_Alu="151(30)" T_Lut="231(133)" T_MULTALU27X18="1(1)">
+   <SubModule name="osc" T_Alu="121(0)" T_Lut="98(0)">
+    <SubModule name="rom" Alu="121" Lut="66" T_Alu="121(121)" T_Lut="98(66)">
+     <SubModule name="s1" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s2" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s3" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s4" Lut="8" T_Lut="8(8)"/>
+    </SubModule>
+   </SubModule>
+  </SubModule>
+  <SubModule name="v_6" Register="60" Alu="26" Lut="127" MULTALU27X18="1" T_Register="60(60)" T_Alu="143(26)" T_Lut="225(127)" T_MULTALU27X18="1(1)">
+   <SubModule name="osc" T_Alu="117(0)" T_Lut="98(0)">
+    <SubModule name="rom" Alu="117" Lut="66" T_Alu="117(117)" T_Lut="98(66)">
+     <SubModule name="s1" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s2" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s3" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s4" Lut="8" T_Lut="8(8)"/>
+    </SubModule>
+   </SubModule>
+  </SubModule>
+  <SubModule name="v_7" Register="64" Alu="30" Lut="131" MULTALU27X18="1" T_Register="64(64)" T_Alu="151(30)" T_Lut="230(131)" T_MULTALU27X18="1(1)">
+   <SubModule name="osc" T_Alu="121(0)" T_Lut="99(0)">
+    <SubModule name="rom" Alu="121" Lut="67" T_Alu="121(121)" T_Lut="99(67)">
+     <SubModule name="s1" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s2" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s3" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s4" Lut="8" T_Lut="8(8)"/>
+    </SubModule>
+   </SubModule>
+  </SubModule>
+ </SubModule>
+ <SubModule name="legato_controller" Register="325" Alu="360" Lut="789" MULT27X36="1" T_Register="325(325)" T_Alu="360(360)" T_Lut="789(789)" T_MULT27X36="1(1)"/>
+ <SubModule name="legato_engine" Register="32" Alu="31" Lut="66" T_Register="32(32)" T_Alu="31(31)" T_Lut="66(66)"/>
+ <SubModule name="always_glide_engine" Register="256" Alu="381" Lut="955" MULTALU27X18="8" T_Register="456(256)" T_Alu="381(381)" T_Lut="1306(955)" T_MULTALU27X18="8(8)">
+  <SubModule name="pitch[0].voice_pitch" Register="25" Lut="45" T_Register="25(25)" T_Lut="45(45)"/>
+  <SubModule name="pitch[1].voice_pitch" Register="25" Lut="43" T_Register="25(25)" T_Lut="43(43)"/>
+  <SubModule name="pitch[2].voice_pitch" Register="25" Lut="45" T_Register="25(25)" T_Lut="45(45)"/>
+  <SubModule name="pitch[3].voice_pitch" Register="25" Lut="44" T_Register="25(25)" T_Lut="44(44)"/>
+  <SubModule name="pitch[4].voice_pitch" Register="25" Lut="43" T_Register="25(25)" T_Lut="43(43)"/>
+  <SubModule name="pitch[5].voice_pitch" Register="25" Lut="45" T_Register="25(25)" T_Lut="45(45)"/>
+  <SubModule name="pitch[6].voice_pitch" Register="25" Lut="43" T_Register="25(25)" T_Lut="43(43)"/>
+  <SubModule name="pitch[7].voice_pitch" Register="25" Lut="43" T_Register="25(25)" T_Lut="43(43)"/>
+ </SubModule>
+ <SubModule name="vibrato_engine" Register="256" Alu="381" Lut="961" MULTALU27X18="8" T_Register="264(256)" T_Alu="381(381)" T_Lut="1007(961)" T_MULTALU27X18="9(8)">
+  <SubModule name="vibrato" Register="8" Lut="46" MULTALU27X18="1" T_Register="8(8)" T_Lut="46(46)" T_MULTALU27X18="1(1)"/>
+ </SubModule>
+ <SubModule name="legato_envelope" Register="19" Lut="90" MULTALU27X18="1" T_Register="19(19)" T_Lut="90(90)" T_MULTALU27X18="1(1)"/>
+ <SubModule name="always_envelope" Register="19" Lut="91" MULTALU27X18="1" T_Register="19(19)" T_Lut="91(91)" T_MULTALU27X18="1(1)"/>
+ <SubModule name="vibrato_envelope" Register="19" Lut="89" MULTALU27X18="1" T_Register="19(19)" T_Lut="89(89)" T_MULTALU27X18="1(1)"/>
+ <SubModule name="echo_engine" Register="44" Alu="50" Lut="147" Bsram="15" T_Register="44(44)" T_Alu="50(50)" T_Lut="147(147)" T_Bsram="15(15)"/>
+ <SubModule name="echo_fx" Register="44" Alu="33" Lut="99" Bsram="15" T_Register="44(44)" T_Alu="33(33)" T_Lut="99(99)" T_Bsram="15(15)"/>
+ <SubModule name="reverb_fx" Register="95" Alu="164" Lut="251" Bsram="12" T_Register="95(95)" T_Alu="164(164)" T_Lut="251(251)" T_Bsram="12(12)"/>
+ <SubModule name="chorus_fx" Register="63" Alu="71" Lut="94" Bsram="1" T_Register="63(63)" T_Alu="71(71)" T_Lut="94(94)" T_Bsram="1(1)"/>
+ <SubModule name="optical_trigger" Register="25" Lut="35" T_Register="25(25)" T_Lut="35(35)"/>
+ <SubModule name="pluck_engine" Alu="161" Lut="9" T_Register="363(0)" T_Alu="695(161)" T_Lut="748(9)" T_MULTALU27X18="8(0)">
+  <SubModule name="v_0" Register="46" Alu="30" Lut="63" MULTALU27X18="1" T_Register="46(46)" T_Alu="68(30)" T_Lut="93(63)" T_MULTALU27X18="1(1)">
+   <SubModule name="osc" T_Alu="38(0)" T_Lut="30(0)">
+    <SubModule name="rom" Alu="38" Lut="14" T_Alu="38(38)" T_Lut="30(14)">
+     <SubModule name="s1" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s3" Lut="8" T_Lut="8(8)"/>
+    </SubModule>
+   </SubModule>
+  </SubModule>
+  <SubModule name="v_1" Register="46" Alu="30" Lut="63" MULTALU27X18="1" T_Register="46(46)" T_Alu="68(30)" T_Lut="93(63)" T_MULTALU27X18="1(1)">
+   <SubModule name="osc" T_Alu="38(0)" T_Lut="30(0)">
+    <SubModule name="rom" Alu="38" Lut="14" T_Alu="38(38)" T_Lut="30(14)">
+     <SubModule name="s1" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s3" Lut="8" T_Lut="8(8)"/>
+    </SubModule>
+   </SubModule>
+  </SubModule>
+  <SubModule name="v_2" Register="46" Alu="30" Lut="63" MULTALU27X18="1" T_Register="46(46)" T_Alu="68(30)" T_Lut="93(63)" T_MULTALU27X18="1(1)">
+   <SubModule name="osc" T_Alu="38(0)" T_Lut="30(0)">
+    <SubModule name="rom" Alu="38" Lut="14" T_Alu="38(38)" T_Lut="30(14)">
+     <SubModule name="s1" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s3" Lut="8" T_Lut="8(8)"/>
+    </SubModule>
+   </SubModule>
+  </SubModule>
+  <SubModule name="v_3" Register="45" Alu="29" Lut="62" MULTALU27X18="1" T_Register="45(45)" T_Alu="66(29)" T_Lut="92(62)" T_MULTALU27X18="1(1)">
+   <SubModule name="osc" T_Alu="37(0)" T_Lut="30(0)">
+    <SubModule name="rom" Alu="37" Lut="14" T_Alu="37(37)" T_Lut="30(14)">
+     <SubModule name="s1" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s3" Lut="8" T_Lut="8(8)"/>
+    </SubModule>
+   </SubModule>
+  </SubModule>
+  <SubModule name="v_4" Register="46" Alu="30" Lut="63" MULTALU27X18="1" T_Register="46(46)" T_Alu="68(30)" T_Lut="93(63)" T_MULTALU27X18="1(1)">
+   <SubModule name="osc" T_Alu="38(0)" T_Lut="30(0)">
+    <SubModule name="rom" Alu="38" Lut="14" T_Alu="38(38)" T_Lut="30(14)">
+     <SubModule name="s1" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s3" Lut="8" T_Lut="8(8)"/>
+    </SubModule>
+   </SubModule>
+  </SubModule>
+  <SubModule name="v_5" Register="46" Alu="30" Lut="63" MULTALU27X18="1" T_Register="46(46)" T_Alu="68(30)" T_Lut="93(63)" T_MULTALU27X18="1(1)">
+   <SubModule name="osc" T_Alu="38(0)" T_Lut="30(0)">
+    <SubModule name="rom" Alu="38" Lut="14" T_Alu="38(38)" T_Lut="30(14)">
+     <SubModule name="s1" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s3" Lut="8" T_Lut="8(8)"/>
+    </SubModule>
+   </SubModule>
+  </SubModule>
+  <SubModule name="v_6" Register="42" Alu="26" Lut="59" MULTALU27X18="1" T_Register="42(42)" T_Alu="60(26)" T_Lut="89(59)" T_MULTALU27X18="1(1)">
+   <SubModule name="osc" T_Alu="34(0)" T_Lut="30(0)">
+    <SubModule name="rom" Alu="34" Lut="14" T_Alu="34(34)" T_Lut="30(14)">
+     <SubModule name="s1" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s3" Lut="8" T_Lut="8(8)"/>
+    </SubModule>
+   </SubModule>
+  </SubModule>
+  <SubModule name="v_7" Register="46" Alu="30" Lut="63" MULTALU27X18="1" T_Register="46(46)" T_Alu="68(30)" T_Lut="93(63)" T_MULTALU27X18="1(1)">
+   <SubModule name="osc" T_Alu="38(0)" T_Lut="30(0)">
+    <SubModule name="rom" Alu="38" Lut="14" T_Alu="38(38)" T_Lut="30(14)">
+     <SubModule name="s1" Lut="8" T_Lut="8(8)"/>
+     <SubModule name="s3" Lut="8" T_Lut="8(8)"/>
+    </SubModule>
+   </SubModule>
+  </SubModule>
+ </SubModule>
+ <SubModule name="pressure_adc_reader" Register="83" Lut="155" T_Register="83(83)" T_Lut="155(155)"/>
+ <SubModule name="pressure_volume" Alu="14" Lut="8" MULTALU27X18="1" T_Alu="14(14)" T_Lut="8(8)" T_MULTALU27X18="1(1)"/>
+ <SubModule name="i2s_tx_inst" Register="30" Lut="32" T_Register="30(30)" T_Lut="32(32)"/>
+ <SubModule name="hdmi_monitor_inst" Register="177" Lut="67" T_Register="3005(177)" T_Alu="848(0)" T_Lut="5143(67)" T_MULTALU27X18="5(0)" T_Bsram="3(0)">
+  <SubModule name="spectrum_detector_inst" Register="1196" Alu="576" Lut="2155" MULTALU27X18="2" T_Register="1196(1196)" T_Alu="576(576)" T_Lut="2155(2155)" T_MULTALU27X18="2(2)"/>
+  <SubModule name="spectrum_dft_inst" Register="1054" Alu="40" Lut="1007" MULTALU27X18="2" Bsram="2" T_Register="1054(1054)" T_Alu="40(40)" T_Lut="1007(1007)" T_MULTALU27X18="2(2)" T_Bsram="2(2)"/>
+  <SubModule name="spectrum_peak_metric_inst" Register="77" Alu="49" Lut="100" T_Register="77(77)" T_Alu="49(49)" T_Lut="100(100)"/>
+  <SubModule name="u_tmds_pll"/>
+  <SubModule name="video_timing_inst" Register="23" Lut="51" T_Register="23(23)" T_Lut="51(51)"/>
+  <SubModule name="waveform_history_inst" Register="266" Alu="15" Lut="444" T_Register="266(266)" T_Alu="15(15)" T_Lut="444(444)"/>
+  <SubModule name="hdmi_ui_inst" Register="139" Alu="99" Lut="1060" MULTALU27X18="1" Bsram="1" T_Register="139(139)" T_Alu="99(99)" T_Lut="1090(1060)" T_MULTALU27X18="1(1)" T_Bsram="1(1)">
+   <SubModule name="font_rom_inst" Lut="30" T_Lut="30(30)"/>
+  </SubModule>
+  <SubModule name="DVI_TX_Top_inst0" Register="73" Alu="69" Lut="229" T_Register="73(73)" T_Alu="69(69)" T_Lut="229(229)"/>
+ </SubModule>
+ <SubModule name="recorder_sampler" Register="40" Lut="102" T_Register="40(40)" T_Lut="102(102)"/>
+ <SubModule name="recorder_packetizer" Register="543" Alu="531" Lut="966" T_Register="543(543)" T_Alu="531(531)" T_Lut="966(966)"/>
+ <SubModule name="control_tx" Register="26" Alu="15" Lut="14" T_Register="26(26)" T_Alu="15(15)" T_Lut="14(14)"/>
+ <SubModule name="tx_arbiter_inst" Register="9" Lut="78" T_Register="9(9)" T_Lut="78(78)"/>
+ <SubModule name="ble_tx_inst" Register="24" Lut="34" T_Register="24(24)" T_Lut="34(34)"/>
+</Module>

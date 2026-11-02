@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW5AT-60B" package="PBGA484A" speed="1" partNumber="GW5AT-LV60PG484AC1/I0"/>
+    <FileList>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\top.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\uart_rx.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\uart_tx.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\ble_protocol_rx.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\ble_protocol_tx.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\ble_command_router.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\key_filter_8.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\score_ram.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\guide_controller.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\led_guide.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\pressure_led.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\polyphonic_timbre.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\legato_pitch.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\legato_dds.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\glide_dds.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\glide_voice_pitch.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\vibrato_dds.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\pitch_vibrato.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\effect_adsr.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_delay.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_echo.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_reverb.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\audio_chorus.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\optical_pluck_trigger.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\polyphonic_pluck.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\pluck_voice.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\expressive_osc.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\instrument_voice.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\ads1115_reader.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\pressure_gain.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\sine_lut.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\timbre_rom.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\i2s_tx.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\record_sampler.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\record_packetizer.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\tx_arbiter.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\spectrum_detector.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\spectrum_dft.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\spectrum_peak_metric.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\ui_data.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\waveform_history.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\video_timing_720p.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\font_rom.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_ui.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\hdmi_monitor.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\dvi_tx\DVI_TX_Top.v" type="verilog"/>
+        <File path="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\src\pll\TMDS_PLL_60HZ.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="dsp_style" value="auto"/>
+        <Option type="enable_dsrm" value="0"/>
+        <Option type="global_freq" value="100.000"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="map_option" value="1"/>
+        <Option type="max_fanout" value="1000"/>
+        <Option type="netlist_hierarchy" value="1"/>
+        <Option type="opt_goal" value="auto"/>
+        <Option type="output_file" value="E:\FPGA\work\keyboard_9mode_3octave_hdmi_integrated\fpga\impl\gwsynthesis\ble_music_keyboard.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="ram_style" value="auto"/>
+        <Option type="rom_style" value="auto"/>
+        <Option type="shift_reg" value="auto"/>
+        <Option type="vcc" value="0.95"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

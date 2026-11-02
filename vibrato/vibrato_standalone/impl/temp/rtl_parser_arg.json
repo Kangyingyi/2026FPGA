@@ -1,0 +1,32 @@
+{
+    "Device": "GW5AT-60B",
+    "Files": [
+        {
+            "Path": "E:/FPGA/work/vibrato_standalone/src/key_filter_8.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "E:/FPGA/work/vibrato_standalone/src/pitch_vibrato.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "E:/FPGA/work/vibrato_standalone/src/vibrato_dds.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "E:/FPGA/work/vibrato_standalone/src/i2s_tx.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "E:/FPGA/work/vibrato_standalone/src/vibrato_top.v",
+            "Type": "verilog"
+        }
+    ],
+    "IncludePath": [
+    ],
+    "LoopLimit": 2000,
+    "ResultFile": "E:/FPGA/work/vibrato_standalone/impl/temp/rtl_parser.result",
+    "Top": "",
+    "VerilogStd": "verilog_2001",
+    "VhdlStd": "vhdl_93"
+}

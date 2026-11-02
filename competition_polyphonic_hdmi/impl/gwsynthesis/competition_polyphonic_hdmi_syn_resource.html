@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Hierarchy Module Resource</title>
+<style type="text/css">
+body { font-family: Verdana, Arial, sans-serif; font-size: 14px; }
+div#main_wrapper{ width: 100%; }
+h1 {text-align: center; }
+h1 {margin-top: 36px; }
+table, th, td { border: 1px solid #aaa; }
+table { border-collapse:collapse; margin-top: 10px; margin-bottom: 20px; width: 100%; }
+th, td { align = "center"; padding: 5px 2px 5px 5px; }
+th { color: #fff; font-weight: bold; background-color: #0084ff; }
+table td.label { width: 20%; white-space: nowrap; min-width: 20px; background-color: #dee8f4; }
+</style>
+</head>
+<body>
+<div id="main_wrapper">
+<div id="content">
+<h1>Hierarchy Module Resource</h1>
+<table>
+<tr>
+<th class="label">MODULE NAME</th>
+<th class="label">REG NUMBER</th>
+<th class="label">ALU NUMBER</th>
+<th class="label">LUT NUMBER</th>
+<th class="label">DSP NUMBER</th>
+<th class="label">BSRAM NUMBER</th>
+<th class="label">SSRAM NUMBER</th>
+<th class="label">ROM16 NUMBER</th>
+</tr>
+<tr>
+<td class="label">top_hdmi (E:/FPGA/work/competition_polyphonic_hdmi/src/top_hdmi.v)</td>
+<td align = "center">176</td>
+<td align = "center">-</td>
+<td align = "center">68</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--key_filter_inst
+ (E:/FPGA/work/competition_polyphonic_hdmi/src/top_hdmi.v)</td>
+<td align = "center">50</td>
+<td align = "center">16</td>
+<td align = "center">35</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--polyphonic_dds_inst
+ (E:/FPGA/work/competition_polyphonic_hdmi/src/top_hdmi.v)</td>
+<td align = "center">256</td>
+<td align = "center">381</td>
+<td align = "center">550</td>
+<td align = "center">8</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--spectrum_detector_inst
+ (E:/FPGA/work/competition_polyphonic_hdmi/src/top_hdmi.v)</td>
+<td align = "center">950</td>
+<td align = "center">576</td>
+<td align = "center">2272</td>
+<td align = "center">16</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--spectrum_dft_inst
+ (E:/FPGA/work/competition_polyphonic_hdmi/src/top_hdmi.v)</td>
+<td align = "center">1054</td>
+<td align = "center">40</td>
+<td align = "center">999</td>
+<td align = "center">2</td>
+<td align = "center">2</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--spectrum_peak_metric_inst
+ (E:/FPGA/work/competition_polyphonic_hdmi/src/top_hdmi.v)</td>
+<td align = "center">77</td>
+<td align = "center">49</td>
+<td align = "center">100</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--uart_telemetry_inst
+ (E:/FPGA/work/competition_polyphonic_hdmi/src/top_hdmi.v)</td>
+<td align = "center">372</td>
+<td align = "center">7</td>
+<td align = "center">339</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--uart_tx_inst
+ (E:/FPGA/work/competition_polyphonic_hdmi/src/uart_telemetry.v)</td>
+<td align = "center">23</td>
+<td align = "center">-</td>
+<td align = "center">33</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--i2s_tx_inst
+ (E:/FPGA/work/competition_polyphonic_hdmi/src/top_hdmi.v)</td>
+<td align = "center">27</td>
+<td align = "center">-</td>
+<td align = "center">35</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--u_tmds_pll
+ (E:/FPGA/work/competition_polyphonic_hdmi/src/top_hdmi.v)</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--video_timing_inst
+ (E:/FPGA/work/competition_polyphonic_hdmi/src/top_hdmi.v)</td>
+<td align = "center">23</td>
+<td align = "center">-</td>
+<td align = "center">51</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--ui_data_inst
+ (E:/FPGA/work/competition_polyphonic_hdmi/src/top_hdmi.v)</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">12</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--waveform_history_inst
+ (E:/FPGA/work/competition_polyphonic_hdmi/src/top_hdmi.v)</td>
+<td align = "center">266</td>
+<td align = "center">15</td>
+<td align = "center">444</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--hdmi_ui_inst
+ (E:/FPGA/work/competition_polyphonic_hdmi/src/top_hdmi.v)</td>
+<td align = "center">157</td>
+<td align = "center">58</td>
+<td align = "center">890</td>
+<td align = "center">1</td>
+<td align = "center">1</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|--font_rom_inst
+ (E:/FPGA/work/competition_polyphonic_hdmi/src/hdmi_ui.v)</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">28</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+<td class="label">&nbsp&nbsp&nbsp&nbsp|--DVI_TX_Top_inst0
+ (E:/FPGA/work/competition_polyphonic_hdmi/src/top_hdmi.v)</td>
+<td align = "center">73</td>
+<td align = "center">69</td>
+<td align = "center">229</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+<td align = "center">-</td>
+</tr>
+</table>
+</div><!-- content -->
+</div><!-- main_wrapper -->
+</body>
+</html>

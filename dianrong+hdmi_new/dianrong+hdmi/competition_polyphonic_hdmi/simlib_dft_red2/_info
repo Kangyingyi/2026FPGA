@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/FPGA/work/competition_polyphonic_hdmi
+vtb_spectrum_dft
+!s110 1791725672
+!i10b 1
+!s100 :9Qa04Q650OVR750SY_6U3
+IU;2UAaBWB8@TO8D`Pj2a_1
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1791725641
+8sim\tb_spectrum_dft.v
+Fsim\tb_spectrum_dft.v
+L0 7
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1791725672.000000
+!s107 sim\tb_spectrum_dft.v|
+!s90 -work|simlib_dft_red2|sim\tb_spectrum_dft.v|
+!i113 1
+o-work simlib_dft_red2
+tCvgOpt 0

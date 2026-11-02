@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="vibrato_top" T_Register="345(0)" T_Alu="397(0)" T_Lut="637(0)" T_MULTALU27X18="9(0)">
+ <SubModule name="keys" Register="50" Alu="16" Lut="40" T_Register="50(50)" T_Alu="16(16)" T_Lut="40(40)"/>
+ <SubModule name="synth" Register="256" Alu="381" Lut="514" MULTALU27X18="8" T_Register="264(256)" T_Alu="381(381)" T_Lut="563(514)" T_MULTALU27X18="9(8)">
+  <SubModule name="vibrato" Register="8" Lut="49" MULTALU27X18="1" T_Register="8(8)" T_Lut="49(49)" T_MULTALU27X18="1(1)"/>
+ </SubModule>
+ <SubModule name="tx" Register="31" Lut="34" T_Register="31(31)" T_Lut="34(34)"/>
+</Module>

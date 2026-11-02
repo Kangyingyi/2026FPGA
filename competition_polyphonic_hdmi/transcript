@@ -1,0 +1,11 @@
+# vsim -c -lib simlib_package_regression tb_ui_metrics -do "run -all; quit -f" 
+# Start time: 19:40:18 on Oct 21,2026
+# Loading simlib_package_regression.tb_ui_metrics
+# Loading simlib_package_regression.hdmi_ui
+# Loading simlib_package_regression.font_rom
+# run -all
+# TB_UI_METRICS_PASS
+# ** Note: $finish    : E:/FPGA/work/competition_polyphonic_hdmi/sim/tb_ui_metrics.v(42)
+#    Time: 136 ns  Iteration: 0  Instance: /tb_ui_metrics
+# End time: 19:40:18 on Oct 21,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

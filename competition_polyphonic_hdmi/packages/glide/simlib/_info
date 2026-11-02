@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/FPGA/work/competition_polyphonic_hdmi/packages/glide
+vpitch_glide
+Z1 !s110 1792582609
+!i10b 1
+!s100 N@7RY:F>R436@=7QC3QS23
+I0Y?:K>^2AhE?<IL8Ua1ZV1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1792582418
+8src\pitch_glide.v
+Fsrc\pitch_glide.v
+L0 5
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1792582609.000000
+Z5 !s107 sim\tb_pitch_glide.v|src\pitch_glide.v|
+Z6 !s90 -vlog01compat|-work|simlib|src\pitch_glide.v|sim\tb_pitch_glide.v|
+!i113 1
+Z7 o-vlog01compat -work simlib
+Z8 tCvgOpt 0
+vtb_pitch_glide
+R1
+!i10b 1
+!s100 8j7Ib1G8[NBgjY8:jZY7M3
+IJlbbWC7LUN<I6f8aiZ3UL3
+R2
+R0
+w1792582378
+8sim\tb_pitch_glide.v
+Fsim\tb_pitch_glide.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8

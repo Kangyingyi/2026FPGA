@@ -1,0 +1,44 @@
+[
+    {
+        "InstFile": "E:/FPGA/work/legato_glide_standalone/src/legato_top.v",
+        "InstLine": 4,
+        "InstName": "legato_top",
+        "ModuleFile": "E:/FPGA/work/legato_glide_standalone/src/legato_top.v",
+        "ModuleLine": 4,
+        "ModuleName": "legato_top",
+        "SubInsts": [
+            {
+                "InstFile": "E:/FPGA/work/legato_glide_standalone/src/legato_top.v",
+                "InstLine": 22,
+                "InstName": "keys",
+                "ModuleFile": "E:/FPGA/work/legato_glide_standalone/src/key_filter_8.v",
+                "ModuleLine": 4,
+                "ModuleName": "key_filter_8"
+            },
+            {
+                "InstFile": "E:/FPGA/work/legato_glide_standalone/src/legato_top.v",
+                "InstLine": 27,
+                "InstName": "pitch",
+                "ModuleFile": "E:/FPGA/work/legato_glide_standalone/src/legato_pitch.v",
+                "ModuleLine": 4,
+                "ModuleName": "legato_pitch"
+            },
+            {
+                "InstFile": "E:/FPGA/work/legato_glide_standalone/src/legato_top.v",
+                "InstLine": 32,
+                "InstName": "synth",
+                "ModuleFile": "E:/FPGA/work/legato_glide_standalone/src/legato_dds.v",
+                "ModuleLine": 4,
+                "ModuleName": "legato_dds"
+            },
+            {
+                "InstFile": "E:/FPGA/work/legato_glide_standalone/src/legato_top.v",
+                "InstLine": 37,
+                "InstName": "tx",
+                "ModuleFile": "E:/FPGA/work/legato_glide_standalone/src/i2s_tx.v",
+                "ModuleLine": 4,
+                "ModuleName": "i2s_tx"
+            }
+        ]
+    }
+]

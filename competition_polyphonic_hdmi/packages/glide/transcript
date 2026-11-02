@@ -1,0 +1,10 @@
+# vsim -c -lib simlib tb_pitch_glide -do "run -all; quit -f" 
+# Start time: 19:36:50 on Oct 21,2026
+# Loading simlib.tb_pitch_glide
+# Loading simlib.pitch_glide
+# run -all
+# TB_PITCH_GLIDE_PACKAGE_PASS
+# ** Note: $finish    : sim/tb_pitch_glide.v(64)
+#    Time: 2171 ns  Iteration: 0  Instance: /tb_pitch_glide
+# End time: 19:36:50 on Oct 21,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

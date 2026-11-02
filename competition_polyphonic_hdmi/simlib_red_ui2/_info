@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/FPGA/work/competition_polyphonic_hdmi
+vfont_rom
+Z1 !s110 1791717627
+!i10b 1
+!s100 MXLzUQl9I_a_z6=OjN7hi3
+I=SkOHc[k@RHSgfJmaNO[l3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1791711301
+8src\font_rom.v
+Fsrc\font_rom.v
+L0 4
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1791717627.000000
+Z5 !s107 sim\tb_video_ui.v|src\hdmi_ui.v|src\font_rom.v|
+Z6 !s90 -work|simlib_red_ui2|src\font_rom.v|src\hdmi_ui.v|sim\tb_video_ui.v|
+!i113 1
+Z7 o-work simlib_red_ui2
+Z8 tCvgOpt 0
+vhdmi_ui
+R1
+!i10b 1
+!s100 ]ilJaGiA1]lQfA4YQczU91
+IJ>`]ghzUQ]bz[WkAf?L7J1
+R2
+R0
+w1791711621
+8src\hdmi_ui.v
+Fsrc\hdmi_ui.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_video_ui
+R1
+!i10b 1
+!s100 ZSm^7n>OPWTmLZL=<W]h83
+I;caH_2USPEB@7Q_`:]=g_1
+R2
+R0
+w1791717615
+8sim\tb_video_ui.v
+Fsim\tb_video_ui.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8

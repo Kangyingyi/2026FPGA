@@ -1,0 +1,178 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/FPGA/work/vibrato_standalone
+vi2s_tx
+Z1 !s110 1792586364
+!i10b 1
+!s100 ch=Y8<1K_RG0lPPaCT;FG2
+IShTo2]<aKlhh^MEi;NkRa3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1790839209
+8E:\FPGA\work\vibrato_standalone\src\i2s_tx.v
+FE:\FPGA\work\vibrato_standalone\src\i2s_tx.v
+L0 8
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1792586364.000000
+Z5 !s107 E:\FPGA\work\vibrato_standalone\sim\tb_vibrato_top.v|E:\FPGA\work\vibrato_standalone\sim\tb_vibrato_audio.v|E:\FPGA\work\vibrato_standalone\sim\tb_pitch_vibrato.v|E:\FPGA\work\vibrato_standalone\src\vibrato_top.v|E:\FPGA\work\vibrato_standalone\src\vibrato_dds.v|E:\FPGA\work\vibrato_standalone\src\pitch_vibrato.v|E:\FPGA\work\vibrato_standalone\src\key_filter_8.v|E:\FPGA\work\vibrato_standalone\src\i2s_tx.v|
+Z6 !s90 -vlog01compat|-work|simlib_red|E:\FPGA\work\vibrato_standalone\src\i2s_tx.v|E:\FPGA\work\vibrato_standalone\src\key_filter_8.v|E:\FPGA\work\vibrato_standalone\src\pitch_vibrato.v|E:\FPGA\work\vibrato_standalone\src\vibrato_dds.v|E:\FPGA\work\vibrato_standalone\src\vibrato_top.v|E:\FPGA\work\vibrato_standalone\sim\tb_pitch_vibrato.v|E:\FPGA\work\vibrato_standalone\sim\tb_vibrato_audio.v|E:\FPGA\work\vibrato_standalone\sim\tb_vibrato_top.v|
+!i113 1
+Z7 o-vlog01compat -work simlib_red
+Z8 tCvgOpt 0
+vkey_filter_8
+R1
+!i10b 1
+!s100 ;<cC[IB^U7?zN9O_foUY_2
+IA5AIgRCBXSk6D:MHBhl>L2
+R2
+R0
+w1792491765
+8E:\FPGA\work\vibrato_standalone\src\key_filter_8.v
+FE:\FPGA\work\vibrato_standalone\src\key_filter_8.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vpitch_vibrato
+R1
+!i10b 1
+!s100 ZUB?KSC^D>=O`OzXPCeRj2
+I:J4ESd6271a@VK6ni:5>C3
+R2
+R0
+w1792582418
+8E:\FPGA\work\vibrato_standalone\src\pitch_vibrato.v
+FE:\FPGA\work\vibrato_standalone\src\pitch_vibrato.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_pitch_vibrato
+R1
+!i10b 1
+!s100 oWGYN^85FB^jQW<ZdPNYL0
+IE_Tc4K1j7]zB4`D[TzeSk0
+R2
+R0
+w1792582527
+8E:\FPGA\work\vibrato_standalone\sim\tb_pitch_vibrato.v
+FE:\FPGA\work\vibrato_standalone\sim\tb_pitch_vibrato.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_vibrato_audio
+R1
+!i10b 1
+!s100 ?NP?cM^=AlE?o7WzBfPeL1
+IaU?U_92l7lCE]^j9HnbZe3
+R2
+R0
+w1792585787
+8E:\FPGA\work\vibrato_standalone\sim\tb_vibrato_audio.v
+FE:\FPGA\work\vibrato_standalone\sim\tb_vibrato_audio.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtb_vibrato_top
+R1
+!i10b 1
+!s100 e45Uke95mIC;7`<eSf@<;0
+IlS_ESdg;GQeiY=ZmD];Zo3
+R2
+R0
+w1792586261
+8E:\FPGA\work\vibrato_standalone\sim\tb_vibrato_top.v
+FE:\FPGA\work\vibrato_standalone\sim\tb_vibrato_top.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vvibrato_dds
+R1
+!i10b 1
+!s100 ^9cDmbT[DgZc5<ZQ7Jc;z3
+IKhPo?3efh=l@c3V4d7=c51
+R2
+R0
+w1792586131
+8E:\FPGA\work\vibrato_standalone\src\vibrato_dds.v
+FE:\FPGA\work\vibrato_standalone\src\vibrato_dds.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vvibrato_top
+R1
+!i10b 1
+!s100 7=Bc0WQYSjO5bjk_<:ioM3
+IQRA?00Bi26A[F:>bWffL>2
+R2
+R0
+w1792586294
+8E:\FPGA\work\vibrato_standalone\src\vibrato_top.v
+FE:\FPGA\work\vibrato_standalone\src\vibrato_top.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8

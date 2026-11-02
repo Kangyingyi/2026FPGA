@@ -1,0 +1,199 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/FPGA/work/glide_standalone
+vglide_dds
+Z1 !s110 1792588654
+!i10b 1
+!s100 olYFDBP9I9_RQS^=>5_<B1
+I2KDF^jZ[MLPlbEa8@9@MQ0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1792585393
+8E:\FPGA\work\glide_standalone\src\glide_dds.v
+FE:\FPGA\work\glide_standalone\src\glide_dds.v
+L0 4
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1792588653.000000
+Z6 !s107 E:\FPGA\work\glide_standalone\sim\tb_note_map.v|E:\FPGA\work\glide_standalone\sim\tb_i2s_framing.v|E:\FPGA\work\glide_standalone\sim\tb_glide_voice_pitch.v|E:\FPGA\work\glide_standalone\sim\tb_glide_audio.v|E:\FPGA\work\glide_standalone\src\key_filter_8.v|E:\FPGA\work\glide_standalone\src\i2s_tx.v|E:\FPGA\work\glide_standalone\src\glide_voice_pitch.v|E:\FPGA\work\glide_standalone\src\glide_top.v|E:\FPGA\work\glide_standalone\src\glide_dds.v|
+Z7 !s90 -vlog01compat|-work|simlib|E:\FPGA\work\glide_standalone\src\glide_dds.v|E:\FPGA\work\glide_standalone\src\glide_top.v|E:\FPGA\work\glide_standalone\src\glide_voice_pitch.v|E:\FPGA\work\glide_standalone\src\i2s_tx.v|E:\FPGA\work\glide_standalone\src\key_filter_8.v|E:\FPGA\work\glide_standalone\sim\tb_glide_audio.v|E:\FPGA\work\glide_standalone\sim\tb_glide_voice_pitch.v|E:\FPGA\work\glide_standalone\sim\tb_i2s_framing.v|E:\FPGA\work\glide_standalone\sim\tb_note_map.v|
+!i113 1
+Z8 o-vlog01compat -work simlib
+Z9 tCvgOpt 0
+vglide_top
+R1
+!i10b 1
+!s100 AK]m;S@gX5=8>ITYQM>8c2
+I2YQbgZ0TiObkXkMRB[V>42
+R2
+R0
+R3
+8E:\FPGA\work\glide_standalone\src\glide_top.v
+FE:\FPGA\work\glide_standalone\src\glide_top.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vglide_voice_pitch
+R1
+!i10b 1
+!s100 F]UZn_Mg^`Z7]CR2TUA8D3
+I>c@?o5f[;dLGAm10E=CWB2
+R2
+R0
+w1792585196
+8E:\FPGA\work\glide_standalone\src\glide_voice_pitch.v
+FE:\FPGA\work\glide_standalone\src\glide_voice_pitch.v
+L0 5
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vi2s_tx
+R1
+!i10b 1
+!s100 OP`fjDQY4INPba0o3`h^]2
+I;T0V[aHEj3@EDmD4?^h4J3
+R2
+R0
+w1792588206
+8E:\FPGA\work\glide_standalone\src\i2s_tx.v
+FE:\FPGA\work\glide_standalone\src\i2s_tx.v
+L0 8
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vkey_filter_8
+R1
+!i10b 1
+!s100 ;<cC[IB^U7?zN9O_foUY_2
+Ih;A@Z:?2`cj44:VmWiRfT1
+R2
+R0
+w1792491765
+8E:\FPGA\work\glide_standalone\src\key_filter_8.v
+FE:\FPGA\work\glide_standalone\src\key_filter_8.v
+L0 5
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vtb_glide_audio
+R1
+!i10b 1
+!s100 6SU@KXT[@igN3KR1ia9a62
+I@13hGcKF?TAbmm3OGLhkK1
+R2
+R0
+w1792588645
+8E:\FPGA\work\glide_standalone\sim\tb_glide_audio.v
+FE:\FPGA\work\glide_standalone\sim\tb_glide_audio.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vtb_glide_voice_pitch
+R1
+!i10b 1
+!s100 >5a:oT_jbd4MbQ>2ZzeN>0
+I6@lJ4a<5<z:[=OZd@WeVE0
+R2
+R0
+w1792585139
+8E:\FPGA\work\glide_standalone\sim\tb_glide_voice_pitch.v
+FE:\FPGA\work\glide_standalone\sim\tb_glide_voice_pitch.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vtb_i2s_framing
+R1
+!i10b 1
+!s100 dJz]WMU?dkEQ47gVIHBn]0
+I9Z<>_>KUaId]LbY>PPaI>0
+R2
+R0
+w1792588069
+8E:\FPGA\work\glide_standalone\sim\tb_i2s_framing.v
+FE:\FPGA\work\glide_standalone\sim\tb_i2s_framing.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vtb_note_map
+R1
+!i10b 1
+!s100 z]oV=0Wk<6c9QlTGBi?^Q3
+I[mi[zoN?:X4F`1S=A0kG`3
+R2
+R0
+w1792588297
+8E:\FPGA\work\glide_standalone\sim\tb_note_map.v
+FE:\FPGA\work\glide_standalone\sim\tb_note_map.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9

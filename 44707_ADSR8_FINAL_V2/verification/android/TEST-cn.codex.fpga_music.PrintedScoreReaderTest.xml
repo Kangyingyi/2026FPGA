@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="cn.codex.fpga_music.PrintedScoreReaderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-10-29T15:38:18.552Z" hostname="XI-LAPTOP" time="0.357">
-  <properties/>
-  <testcase name="readsEveryNoteFromTheSuppliedWholeImage" classname="cn.codex.fpga_music.PrintedScoreReaderTest" time="0.353"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

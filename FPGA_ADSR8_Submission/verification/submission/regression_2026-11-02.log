@@ -1,0 +1,38 @@
+﻿ADSR_8_PRESETS_PASS
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_adsr_presets.v:49: $finish called at 27429670000 (1ps)
+RX byte a5 at 465000
+RX byte 3c at 875000
+UART_LOOPBACK_PASS
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_uart_loopback.v:57: $finish called at 1460000 (1ps)
+BLE_PROTOCOL_PASS
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_ble_protocol.v:97: $finish called at 840000 (1ps)
+PROTOCOL_TX_PASS
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_protocol_tx.v:42: $finish called at 200000 (1ps)
+GUIDE_CONTROLLER_PASS
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_guide_controller.v:77: $finish called at 530000 (1ps)
+POLYPHONIC_AUDIO_PASS sample=x
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_polyphonic_audio.v:48: $finish called at 832000 (1ps)
+RECORD_STREAM_PASS
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_record_stream.v:50: $finish called at 6150000 (1ps)
+MODE_COMMANDS_PASS
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_mode_commands.v:58: $finish called at 1330000 (1ps)
+OCTAVE_ENGINES_PASS
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_octave_engines.v:42: $finish called at 28000 (1ps)
+AUDIO_DELAY_PASS
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_audio_delay.v:27: $finish called at 230000 (1ps)
+TB_WAVEFORM_HISTORY_PASS
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_waveform_history.v:61: $finish called at 5466000 (1ps)
+TB_SPECTRUM_DETECTOR_PASS
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_spectrum_detector.v:105: $finish called at 41015000 (1ps)
+TX_ARBITER_PASS
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_tx_arbiter.v:37: $finish called at 950000 (1ps)
+TOP_SMOKE_PASS
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_top_smoke.v:34: $finish called at 10130000 (1ps)
+TOP_MODE_UART_PASS
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_top_mode_uart.v:101: $finish called at 167770000 (1ps)
+OPTICAL_CHAIN_PASS mode=5 optical_events=1 audible_samples=17
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_optical_pluck_chain.v:36: $finish called at 669780000 (1ps)
+TOP_HDMI_INTEGRATION_PASS
+E:\fpga\competition_submission_ADSR_2026-11-02\fpga\sim\tb_top_hdmi_integration.v:50: $finish called at 150030000 (1ps)
+PROJECT_INVENTORY_PASS
+ALL_TESTS_PASS

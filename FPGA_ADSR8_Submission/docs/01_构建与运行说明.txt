@@ -1,0 +1,38 @@
+﻿构建与运行说明
+
+一、FPGA 工程
+开发平台：Tang Mega NEO，目标器件 GW5AT-LV60PG484AC1/I0。
+顶层模块：top。
+工程入口：fpga/ble_music_keyboard.gprj。
+构建脚本：fpga/build.tcl。
+基线构建工具：Gowin V1.9.12.04。
+在 fpga 目录运行（将路径替换为本机 Gowin 安装路径）：
+  & "<Gowin安装目录>\IDE\bin\gw_sh.exe" .\build.tcl
+脚本使用自身所在目录定位工程，依次执行综合和布局布线。
+必须保留 set_option -use_cpu_as_gpio 1，以启用相关复用管脚。
+如通过 GUI 构建，也应配置相同的 CPU 管脚 GPIO 选项及器件型号。
+
+二、Android 应用
+工程入口：android/。
+基线环境记录：JDK 17、Gradle 9.6.1、Android SDK 37。
+Android Gradle Plugin：9.4.0；compileSdk 37，targetSdk 35，minSdk 23。
+版本与依赖以 Gradle 文件为准；首次构建需能够下载相应依赖。
+通过 Android Studio 指定本机 SDK，或设置 ANDROID_HOME；本包不携带个人 SDK 路径。
+在 android 目录执行：
+  .\gradlew.bat testDebugUnitTest assembleDebug
+安装包输出位于 app/build/outputs/apk/debug/。
+随包 APK 用于作品演示安装，并非应用商店发布签名包。
+
+三、FPGA 下载
+连接开发板电源和 USB/JTAG 下载接口，在 Gowin Programmer 中选择与开发板匹配的
+器件及 SRAM 下载模式，加载 release/keyboard_HDMI_E13_ADSR8_sram.fs 后执行下载。
+SRAM 配置断电失效，重新上电后需再次下载。
+HDMI 连接显示设备，声音从开发板音频口输出。
+
+四、仿真复现
+脚本：fpga/sim/run_all_tests.ps1。
+该脚本使用 C:\iverilog\bin\iverilog.exe 和 vvp.exe。
+将 Icarus Verilog 安装到该位置，或将脚本中的工具变量改为本机对应路径后运行。
+命令：powershell -ExecutionPolicy Bypass -File .\fpga\sim\run_all_tests.ps1
+脚本运行 17 个仿真用例及工程文件清单检查。
+HDMI 厂商 IP 在数字逻辑仿真中使用 hdmi_ip_stubs.v 替身；真实实现采用工程所列 IP。
